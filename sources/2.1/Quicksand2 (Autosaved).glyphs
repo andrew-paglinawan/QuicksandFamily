@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"\U00B4"
+"\U00B4",
+Q
 );
 copyright = "Copyright © 2013 by Andrew Paglinawan. All rights reserved.";
 customParameters = (
@@ -5946,7 +5947,7 @@ unicode = 00DE;
 },
 {
 glyphname = Q;
-lastChange = "2016-07-14 20:24:03 +0000";
+lastChange = "2016-07-14 20:55:32 +0000";
 layers = (
 {
 anchors = (
@@ -6076,35 +6077,35 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"709 549 OFFCURVE",
-"569 710 OFFCURVE",
-"374 710 CURVE",
-"179 710 OFFCURVE",
+"719 549 OFFCURVE",
+"577 710 OFFCURVE",
+"379 710 CURVE",
+"181 710 OFFCURVE",
 "40 549 OFFCURVE",
 "40 350 CURVE",
 "40 151 OFFCURVE",
-"179 -10 OFFCURVE",
-"374 -10 CURVE",
-"569 -10 OFFCURVE",
-"709 151 OFFCURVE",
-"709 350 CURVE"
+"181 -10 OFFCURVE",
+"379 -10 CURVE",
+"577 -10 OFFCURVE",
+"719 151 OFFCURVE",
+"719 350 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"579 210 OFFCURVE",
-"494 100 OFFCURVE",
-"374 100 CURVE",
-"253 100 OFFCURVE",
-"170 209 OFFCURVE",
+"589 216 OFFCURVE",
+"502 110 OFFCURVE",
+"379 110 CURVE",
+"255 110 OFFCURVE",
+"170 215 OFFCURVE",
 "170 350 CURVE",
 "170 485 OFFCURVE",
-"253 590 OFFCURVE",
-"374 590 CURVE",
-"494 590 OFFCURVE",
-"579 484 OFFCURVE",
-"579 350 CURVE"
+"255 590 OFFCURVE",
+"379 590 CURVE",
+"502 590 OFFCURVE",
+"589 484 OFFCURVE",
+"589 350 CURVE"
 );
 }
 );
