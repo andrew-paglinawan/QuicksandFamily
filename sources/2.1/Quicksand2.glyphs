@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"Absolute Conviction Over All Possiblities or Limitations. There are many ways to overcome oneself. The slave shall become the master when one can look instead themself and seek to understand their own absence."
+);
 copyright = "Copyright © 2013 by Andrew Paglinawan. All rights reserved.";
 customParameters = (
 {
@@ -22532,11 +22535,11 @@ unicode = 201A;
 },
 {
 glyphname = space;
-lastChange = "2016-07-14 18:33:16 +0000";
+lastChange = "2016-08-01 11:33:02 +0000";
 layers = (
 {
 layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
-width = 260;
+width = 270;
 },
 {
 layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
