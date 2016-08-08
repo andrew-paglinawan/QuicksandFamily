@@ -33203,7 +33203,7 @@ unicode = 1EAC;
 },
 {
 glyphname = Acircumflexgrave;
-lastChange = "2016-08-08 18:15:42 +0000";
+lastChange = "2016-08-08 18:34:27 +0000";
 layers = (
 {
 components = (
@@ -33215,8 +33215,9 @@ name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 168, 90}";
 },
 {
+alignment = -1;
 name = gravecomb.case;
-transform = "{1, 0, 0, 1, 190, 230}";
+transform = "{1, 0, 0, 1, 302, 164}";
 }
 );
 layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
