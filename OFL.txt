@@ -1,4 +1,4 @@
-Copyright (c) 2011, The Quicksand Project Authors (www.andrewpaglinawan.com),
+Copyright 2011 The Quicksand Project Authors,
 with Reserved Font Name “Quicksand”.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
