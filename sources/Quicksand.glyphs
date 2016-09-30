@@ -1,5 +1,5 @@
 {
-.appVersion = "919";
+.appVersion = "924";
 copyright = "Copyright 2011 The Quicksand Project Authors";
 customParameters = (
 {
@@ -54666,20 +54666,6 @@ width = 458;
 );
 },
 {
-glyphname = null;
-lastChange = "2016-09-19 13:44:16 +0000";
-layers = (
-{
-layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
-width = 600;
-},
-{
-layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
-width = 600;
-}
-);
-},
-{
 glyphname = IJacute;
 lastChange = "2016-09-19 13:44:16 +0000";
 layers = (
@@ -54829,7 +54815,7 @@ width = 212;
 },
 {
 glyphname = NULL;
-lastChange = "2016-09-19 13:44:16 +0000";
+lastChange = "2016-09-30 11:18:32 +0000";
 layers = (
 {
 layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
@@ -54840,21 +54826,12 @@ layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesNiceNames = 1;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Quicksand Pro Light";
-},
-{
-name = compatibleFullName;
-value = "Quicksand Pro Light";
-}
-);
 interpolationWeight = 300;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -54864,16 +54841,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Quicksand Pro Regular";
-},
-{
-name = compatibleFullName;
-value = "Quicksand Pro Regular";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "8816CCA3-DDF9-4C51-BD56-64EE3675A105" = 0.25;
@@ -54882,16 +54849,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Quicksand Pro Medium";
-},
-{
-name = compatibleFullName;
-value = "Quicksand Pro Medium";
-}
-);
 interpolationWeight = 575;
 instanceInterpolations = {
 "8816CCA3-DDF9-4C51-BD56-64EE3675A105" = 0.6875;
@@ -54901,16 +54858,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Quicksand Pro Bold";
-},
-{
-name = compatibleFullName;
-value = "Quicksand Pro Bold";
-}
-);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -56204,6 +56151,6 @@ tH = "66";
 };
 };
 };
-versionMajor = 2;
-versionMinor = 1;
+versionMajor = 3;
+versionMinor = 0;
 }
