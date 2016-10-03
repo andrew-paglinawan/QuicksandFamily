@@ -27,7 +27,7 @@ value = 1;
 date = "2011-10-12 18:57:20 +0000";
 designer = "Andrew Paglinawan";
 designerURL = "http://www.andrewpaglinawan.com";
-familyName = "Quicksand Pro";
+familyName = Quicksand;
 features = (
 {
 automatic = 1;

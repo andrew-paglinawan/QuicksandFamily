@@ -1,43 +1,43 @@
-name: "Quicksand Pro"
+name: "Quicksand"
 designer: "Andrew Paglinawan"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2011-10-19"
 fonts {
-  name: "Quicksand Pro"
+  name: "Quicksand"
   style: "normal"
   weight: 300
-  filename: "QuicksandPro-Light.ttf"
-  post_script_name: "QuicksandPro-Light"
-  full_name: "Quicksand Pro Light"
-  copyright: "Copyright 2011 The Quicksand Project Authors"
+  filename: "Quicksand-Light.ttf"
+  post_script_name: "Quicksand-Light"
+  full_name: "Quicksand Light"
+  copyright: "Copyright 2011 The Quicksandject Authors"
 }
 fonts {
-  name: "Quicksand Pro"
+  name: "Quicksand"
   style: "normal"
   weight: 400
-  filename: "QuicksandPro-Regular.ttf"
-  post_script_name: "QuicksandPro-Regular"
-  full_name: "Quicksand Pro Regular"
-  copyright: "Copyright 2011 The Quicksand Project Authors"
+  filename: "Quicksand-Regular.ttf"
+  post_script_name: "Quicksand-Regular"
+  full_name: "Quicksand Regular"
+  copyright: "Copyright 2011 The Quicksandject Authors"
 }
 fonts {
-  name: "Quicksand Pro"
+  name: "Quicksand"
   style: "normal"
   weight: 500
-  filename: "QuicksandPro-Medium.ttf"
-  post_script_name: "QuicksandPro-Medium"
-  full_name: "Quicksand Pro Medium"
-  copyright: "Copyright 2011 The Quicksand Project Authors"
+  filename: "Quicksand-Medium.ttf"
+  post_script_name: "Quicksand-Medium"
+  full_name: "Quicksand Medium"
+  copyright: "Copyright 2011 The Quicksandject Authors"
 }
 fonts {
-  name: "Quicksand Pro"
+  name: "Quicksand"
   style: "normal"
   weight: 700
-  filename: "QuicksandPro-Bold.ttf"
-  post_script_name: "QuicksandPro-Bold"
-  full_name: "Quicksand Pro Bold"
-  copyright: "Copyright 2011 The Quicksand Project Authors"
+  filename: "Quicksand-Bold.ttf"
+  post_script_name: "Quicksand-Bold"
+  full_name: "Quicksand Bold"
+  copyright: "Copyright 2011 The Quicksandject Authors"
 }
 subsets: "latin"
 subsets: "latin-ext"
