@@ -1,6 +1,6 @@
 {
-.appVersion = "924";
-copyright = "Copyright 2011 The Quicksand Project Authors";
+.appVersion = "930";
+copyright = "Copyright 2011 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily), with Reserved Font Name “Quicksand”.";
 customParameters = (
 {
 name = licenseURL;
@@ -27,6 +27,7 @@ value = 1;
 date = "2011-10-12 18:57:20 +0000";
 designer = "Andrew Paglinawan";
 designerURL = "http://www.andrewpaglinawan.com";
+disablesNiceNames = 1;
 familyName = Quicksand;
 features = (
 {
@@ -54829,7 +54830,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 interpolationWeight = 300;
