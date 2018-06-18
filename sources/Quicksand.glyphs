@@ -22,15 +22,6 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2011-10-12 18:57:20 +0000";
@@ -135,16 +126,6 @@ value = -250;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-location = 300;
-}
-);
 }
 );
 descender = -200;
@@ -203,16 +184,6 @@ value = -250;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-location = 700;
-}
-);
 }
 );
 descender = -200;
