@@ -54895,10 +54895,10 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-interpolationWeight = 575;
+interpolationWeight = 500;
 instanceInterpolations = {
-"254266E2-2911-423D-9D37-8CC6105656EE" = 0.3125;
-"8816CCA3-DDF9-4C51-BD56-64EE3675A105" = 0.6875;
+"254266E2-2911-423D-9D37-8CC6105656EE" = 0.5;
+"8816CCA3-DDF9-4C51-BD56-64EE3675A105" = 0.5;
 };
 name = Medium;
 weightClass = Medium;
