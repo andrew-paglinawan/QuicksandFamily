@@ -1,5 +1,5 @@
 {
-.appVersion = "1147";
+.appVersion = "1230";
 copyright = "Copyright 2011 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily), with Reserved Font Name “Quicksand”.";
 customParameters = (
 {
@@ -22,6 +22,10 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "GASP Table";
+value = "New Value";
 }
 );
 date = "2011-10-12 18:57:20 +0000";
