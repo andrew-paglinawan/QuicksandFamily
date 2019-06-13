@@ -1,5 +1,11 @@
 {
 .appVersion = "1230";
+DisplayStrings = (
+"ø",
+"/iogonek",
+"/ij",
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute ÃÆ/AEacute BC/Cacute/Ccaron Ç/Ccedillaacute/Ccircumflex/Cdotaccent D/DZcaron Ð/Dcaron/Dcroat/Ddotbelow/Dlinebelow/Dz/Dzcaron EÉ/Ebreve/Ecaron/Ecedillabreve Ê/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edblgrave Ë/Edotaccent/Edotbelow È/Ehookabove/Einvertedbreve/Emacron/Emacronacute/Emacrongrave/Eogonek/Etilde FG/Gbreve/Gcaron/Gcircumflex/Gcommaaccent/Gdotaccent/Gmacron H/Hbar/Hbrevebelow/Hcircumflex/Hdotbelow I/IJ Í/Ibreve/Icaron Î/Idblgrave Ï/Idieresisacute/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Itilde J/Jcircumflex K/Kcommaaccent L/LJ/Lacute/Lcaron/Lcommaaccent/Ldot/Ldotbelow/Lj/Llinebelow/Lslash M/Mdotbelow N/NJ/Nacute/Ncaron/Ncommaaccent/Ndotaccent/Ndotbelow/Eng/Nhookleft/Nj/Nlinebelow ÑOÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Omacronacute/Omacrongrave/Oogonek Ø/Oslashacute Õ/Otildeacute/Otildedieresis/Otildemacron/OE PÞQR/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rdotbelow/Rinvertedbreve/Rlinebelow S/Sacute/Sacutedotaccent/Scaron/Scarondotaccent/Scedilla/Scircumflex/Scommaaccent/Sdotaccent/Sdotbelow/Sdotbelowdotaccent/Germandbls/Schwa T/Tbar/Tcaron/Tcedilla/Tcommaaccent/Tdotbelow/Tlinebelow UÚ/Ubreve/Ucaron Û/Udblgrave Ü/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Umacrondieresis/Uogonek/Uring/Utilde/Utildeacute VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ydotaccent/Ydotbelow/Ygrave/Yhookabove/Ymacron/Ytilde Z/Zacute/Zcaron/Zdotaccent/Zdotbelow aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ãæ/aeacute bc/cacute/ccaron ç/ccedillaacute/ccircumflex/cdotaccent dð/dcaron/dcroat/ddotbelow/dlinebelow/dzcaron eé/ebreve/ecaron/ecedillabreve ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/emacronacute/emacrongrave/eogonek/etilde/schwa fg/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/gmacron h/hbar/hbrevebelow/hcircumflex/hdotbelow i/idotless í/ibreve/icaron î/idblgrave ï/idieresisacute/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/ij/imacron/iogonek/itilde j/jdotless/jcircumflex k/kcommaaccent/kgreenlandic l/lacute/lcaron/lcommaaccent/ldot/ldotbelow/lj/llinebelow/lslash m/mdotbelow n/nacute/napostrophe/ncaron/ncommaaccent/ndotaccent/ndotbelow/eng/nhookleft/nj/nlinebelow ñoó/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/omacronacute/omacrongrave/oogonek ø/oslashacute õ/otildeacute/otildedieresis/otildemacron/oe pþqr/racute/rcaron/rcommaaccent/rdblgrave/rdotbelow/rinvertedbreve/rlinebelow s/sacute/sacutedotaccent/scaron/scarondotaccent/scedilla/scircumflex/scommaaccent/sdotaccent/sdotbelow/sdotbelowdotaccent ßt/tbar/tcaron/tcedilla/tcommaaccent/tdieresis/tdotbelow/tlinebelow uú/ubreve/ucaron û/udblgrave ü/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/umacrondieresis/uogonek/uring/utilde/utildeacute vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ydotaccent/ydotbelow/ygrave/yhookabove/ymacron/ytilde z/zacute/zcaron/zdotaccent/zdotbelow/etilde.001/a.ss01/aacute.ss01/abreve.ss01/abreveacute.ss01/abrevedotbelow.ss01/abrevegrave.ss01/abrevehookabove.ss01/abrevetilde.ss01/acaron.ss01/acircumflex.ss01/acircumflexacute.ss01/acircumflexdotbelow.ss01/acircumflexgrave.ss01/acircumflexhookabove.ss01/acircumflextilde.ss01/adblgrave.ss01/adieresis.ss01/adotbelow.ss01/agrave.ss01/ahookabove.ss01/ainvertedbreve.ss01/amacron.ss01/aogonek.ss01/aring.ss01/aringacute.ss01/atilde.ss01/g.ss01/gbreve.ss01/gcaron.ss01/gcircumflex.ss01/gcommaaccent.ss01/gdotaccent.ss01/gmacron.ss01/f_f/f_f_i/f_f_ij/f_f_l/f_ij/fi/fl ªº/pi 0123456789/zero.zero/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior/fraction ½¼¾/oneeighth/threeeighths/fiveeighths/seveneighths */backslash ·/bullet :,/ellipsis !¡#.?¿\"';//_/backslash.case/periodcentered.case/bullet.case/periodcentered.loclCAT.case/slash.case/periodcentered.loclCAT {}[]()/braceleft.case/braceright.case/bracketleft.case/bracketright.case/parenleft.case/parenright.case/emdash/endash/figuredash/horizontalbar -/hyphentwo ­/emdash.case/endash.case/hyphen.case «»/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/figurespace/hairspace/punctuationspace   /thinspace/zerowidthspace \015/.notdef/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬/emptyset/infinity/integral/Ohm/increment/product/summation/radical/partialdiff µ%/perthousand/lozenge @&¶§©®/trademark °|¦/dagger/literSign/daggerdbl/estimated/numero ^/second/at.case/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/strokeshortcomb/commaaccentcomb.alt/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/horncomb.case/dotbelowcomb.case/dieresisbelowcomb.case/commaaccentcomb.case/cedillacomb.case/ogonekcomb.case/brevebelowcomb.case/macronbelowcomb.case/apostrophemod/commaturnedmod/firsttonechinese/fourthtonechinese/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde/acute.case/breve.case/caron.case/circumflex.case/dieresis.case/dotaccent.case/grave.case/hungarumlaut.case/macron.case/ring.case/tilde.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/IJacute/ijacute/caronalt/prime"
+);
 copyright = "Copyright 2011 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily), with Reserved Font Name “Quicksand”.";
 customParameters = (
 {
@@ -4192,7 +4198,7 @@ unicode = 1E20;
 },
 {
 glyphname = H;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:41:43 +0000";
 layers = (
 {
 anchors = (
@@ -4443,9 +4449,7 @@ nodes = (
 width = 720;
 }
 );
-leftMetricsKey = H;
 note = H;
-rightMetricsKey = H;
 unicode = 0048;
 },
 {
@@ -7139,7 +7143,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:42:47 +0000";
 layers = (
 {
 anchors = (
@@ -7275,10 +7279,8 @@ width = 768;
 }
 );
 leftKerningGroup = C;
-leftMetricsKey = O;
 note = O;
 rightKerningGroup = D;
-rightMetricsKey = O;
 unicode = 004F;
 },
 {
@@ -18429,7 +18431,7 @@ unicode = 020B;
 },
 {
 glyphname = ij;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:40:15 +0000";
 layers = (
 {
 components = (
@@ -18443,7 +18445,7 @@ transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
-width = 516;
+width = 481;
 },
 {
 components = (
@@ -18459,7 +18461,7 @@ layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
 width = 474;
 }
 );
-leftMetricsKey = "+10";
+leftMetricsKey = i;
 note = ij;
 rightMetricsKey = j;
 unicode = 0133;
@@ -18502,7 +18504,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:39:48 +0000";
 layers = (
 {
 anchors = (
@@ -18641,9 +18643,7 @@ nodes = (
 width = 206;
 }
 );
-leftMetricsKey = "+10";
 note = iogonek;
-rightMetricsKey = "+10";
 unicode = 012F;
 },
 {
@@ -19203,7 +19203,7 @@ unicode = 0138;
 },
 {
 glyphname = l;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:45:12 +0000";
 layers = (
 {
 anchors = (
@@ -19293,10 +19293,8 @@ width = 216;
 }
 );
 leftKerningGroup = b;
-leftMetricsKey = l;
 note = l;
 rightKerningGroup = l;
-rightMetricsKey = l;
 unicode = 006C;
 },
 {
@@ -19337,7 +19335,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:38:32 +0000";
 layers = (
 {
 components = (
@@ -19374,7 +19372,7 @@ width = 430;
 components = (
 {
 name = caronalt;
-transform = "{1, 0, 0, 1, 144, 0}";
+transform = "{1, 0, 0, 1, 149, 0}";
 }
 );
 layerId = "254266E2-2911-423D-9D37-8CC6105656EE";
@@ -19382,24 +19380,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"123 720 LINE SMOOTH",
-"123 731 OFFCURVE",
-"115 740 OFFCURVE",
-"103 740 CURVE SMOOTH",
-"92 740 OFFCURVE",
-"83 731 OFFCURVE",
-"83 720 CURVE SMOOTH",
-"83 20 LINE SMOOTH",
-"83 9 OFFCURVE",
-"91 0 OFFCURVE",
-"103 0 CURVE SMOOTH",
-"114 0 OFFCURVE",
-"123 9 OFFCURVE",
-"123 20 CURVE SMOOTH"
+"128 720 LINE SMOOTH",
+"128 731 OFFCURVE",
+"120 740 OFFCURVE",
+"108 740 CURVE SMOOTH",
+"97 740 OFFCURVE",
+"88 731 OFFCURVE",
+"88 720 CURVE SMOOTH",
+"88 20 LINE SMOOTH",
+"88 9 OFFCURVE",
+"96 0 OFFCURVE",
+"108 0 CURVE SMOOTH",
+"119 0 OFFCURVE",
+"128 9 OFFCURVE",
+"128 20 CURVE SMOOTH"
 );
 }
 );
-width = 265;
+width = 270;
 }
 );
 leftMetricsKey = l;
@@ -19862,7 +19860,7 @@ unicode = 1E43;
 },
 {
 glyphname = n;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:44:20 +0000";
 layers = (
 {
 anchors = (
@@ -19980,10 +19978,8 @@ width = 572;
 }
 );
 leftKerningGroup = m;
-leftMetricsKey = n;
 note = n;
 rightKerningGroup = h;
-rightMetricsKey = n;
 unicode = 006E;
 },
 {
@@ -20550,7 +20546,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:44:34 +0000";
 layers = (
 {
 anchors = (
@@ -20678,10 +20674,8 @@ width = 589;
 }
 );
 leftKerningGroup = c;
-leftMetricsKey = o;
 note = o;
 rightKerningGroup = b;
-rightMetricsKey = o;
 unicode = 006F;
 },
 {
@@ -21860,7 +21854,7 @@ unicode = 01EB;
 },
 {
 glyphname = oslash;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:39:19 +0000";
 layers = (
 {
 anchors = (
@@ -21948,10 +21942,8 @@ width = 597;
 }
 );
 leftKerningGroup = o;
-leftMetricsKey = "+10";
 note = oslash;
 rightKerningGroup = b;
-rightMetricsKey = "+10";
 unicode = 00F8;
 },
 {
@@ -25501,7 +25493,7 @@ unicode = 1E79;
 },
 {
 glyphname = v;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:45:48 +0000";
 layers = (
 {
 anchors = (
@@ -25605,10 +25597,8 @@ width = 518;
 }
 );
 leftKerningGroup = v;
-leftMetricsKey = v;
 note = v;
 rightKerningGroup = v;
-rightMetricsKey = v;
 unicode = 0076;
 },
 {
@@ -28589,7 +28579,7 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_ij;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:40:51 +0000";
 layers = (
 {
 components = (
@@ -28602,7 +28592,7 @@ transform = "{1, 0, 0, 1, 417, 0}";
 }
 );
 layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
-width = 1350;
+width = 1315;
 },
 {
 components = (
@@ -28657,7 +28647,7 @@ rightMetricsKey = l;
 },
 {
 glyphname = f_ij;
-lastChange = "2018-02-16 14:37:42 +0000";
+lastChange = "2019-06-13 14:39:59 +0000";
 layers = (
 {
 components = (
@@ -28670,7 +28660,7 @@ transform = "{1, 0, 0, 1, 417, 0}";
 }
 );
 layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
-width = 933;
+width = 898;
 },
 {
 components = (
