@@ -14,7 +14,7 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
-value = PfEd;
+value = GOOG;
 },
 {
 name = license;
@@ -32,6 +32,10 @@ value = 1;
 {
 name = "GASP Table";
 value = "New Value";
+},
+{
+name = "Variable Font Family Name";
+value = Quicksand;
 }
 );
 date = "2011-10-12 18:57:20 +0000";
