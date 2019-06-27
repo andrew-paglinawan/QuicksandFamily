@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="586"/>
+  <unicode hex="0068"/>
+  <note>
+h
+</note>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="119" y="594" name="center"/>
+  <anchor x="125" y="740" name="top"/>
+  <outline>
+    <contour>
+      <point x="346" y="545" type="curve"/>
+      <point x="258" y="545"/>
+      <point x="194" y="480"/>
+      <point x="170" y="434" type="curve"/>
+      <point x="185" y="431" type="line"/>
+      <point x="185" y="679" type="line"/>
+      <point x="185" y="714"/>
+      <point x="160" y="740"/>
+      <point x="125" y="740" type="curve"/>
+      <point x="90" y="740"/>
+      <point x="65" y="714"/>
+      <point x="65" y="679" type="curve"/>
+      <point x="65" y="61" type="line"/>
+      <point x="65" y="26"/>
+      <point x="90" y="0"/>
+      <point x="125" y="0" type="curve"/>
+      <point x="160" y="0"/>
+      <point x="185" y="26"/>
+      <point x="185" y="61" type="curve"/>
+      <point x="185" y="317" type="line"/>
+      <point x="185" y="382"/>
+      <point x="227" y="435"/>
+      <point x="304" y="435" type="curve"/>
+      <point x="381" y="435"/>
+      <point x="401" y="382"/>
+      <point x="401" y="317" type="curve"/>
+      <point x="401" y="61" type="line"/>
+      <point x="401" y="26"/>
+      <point x="426" y="0"/>
+      <point x="461" y="0" type="curve"/>
+      <point x="496" y="0"/>
+      <point x="521" y="26"/>
+      <point x="521" y="61" type="curve"/>
+      <point x="521" y="317" type="line"/>
+      <point x="521" y="442"/>
+      <point x="489" y="545"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="594"/>
+  <unicode hex="20B1"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="124" y="172" name="center"/>
+  <anchor x="297" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="424" type="curve"/>
+      <point x="107" y="424" type="line"/>
+      <point x="122" y="424" type="line"/>
+      <point x="496" y="424" type="line"/>
+      <point x="512" y="424" type="line"/>
+      <point x="584" y="424" type="line"/>
+      <point x="596" y="424"/>
+      <point x="605" y="432"/>
+      <point x="605" y="443" type="curve"/>
+      <point x="605" y="455"/>
+      <point x="596" y="463"/>
+      <point x="584" y="463" type="curve"/>
+      <point x="527" y="463" type="line"/>
+      <point x="512" y="463" type="line"/>
+      <point x="123" y="463" type="line"/>
+      <point x="109" y="463" type="line"/>
+      <point x="40" y="463" type="line"/>
+      <point x="28" y="463"/>
+      <point x="19" y="455"/>
+      <point x="19" y="443" type="curve"/>
+      <point x="19" y="432"/>
+      <point x="28" y="424"/>
+    </contour>
+    <contour>
+      <point x="40" y="554" type="curve"/>
+      <point x="110" y="554" type="line"/>
+      <point x="126" y="554" type="line"/>
+      <point x="512" y="554" type="line"/>
+      <point x="532" y="554" type="line"/>
+      <point x="584" y="554" type="line"/>
+      <point x="596" y="554"/>
+      <point x="605" y="562"/>
+      <point x="605" y="573" type="curve"/>
+      <point x="605" y="585"/>
+      <point x="596" y="593"/>
+      <point x="584" y="593" type="curve"/>
+      <point x="523" y="593" type="line"/>
+      <point x="504" y="593" type="line"/>
+      <point x="125" y="593" type="line"/>
+      <point x="113" y="593" type="line"/>
+      <point x="40" y="593" type="line"/>
+      <point x="28" y="593"/>
+      <point x="19" y="585"/>
+      <point x="19" y="573" type="curve"/>
+      <point x="19" y="562"/>
+      <point x="28" y="554"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

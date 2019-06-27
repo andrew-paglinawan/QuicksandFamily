@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="399.5"/>
+  <unicode hex="00A8"/>
+  <anchor x="201" y="515" name="_top"/>
+  <outline>
+    <contour>
+      <point x="286" y="600" type="curve"/>
+      <point x="312" y="600"/>
+      <point x="327" y="614"/>
+      <point x="327" y="640" type="curve" smooth="yes"/>
+      <point x="327" y="650" type="line" smooth="yes"/>
+      <point x="327" y="675"/>
+      <point x="312" y="690"/>
+      <point x="287" y="690" type="curve"/>
+      <point x="261" y="690"/>
+      <point x="245" y="675"/>
+      <point x="245" y="650" type="curve" smooth="yes"/>
+      <point x="245" y="640" type="line" smooth="yes"/>
+      <point x="245" y="615"/>
+      <point x="260" y="600"/>
+    </contour>
+    <contour>
+      <point x="114" y="600" type="curve"/>
+      <point x="140" y="600"/>
+      <point x="155" y="614"/>
+      <point x="155" y="640" type="curve" smooth="yes"/>
+      <point x="155" y="650" type="line" smooth="yes"/>
+      <point x="155" y="675"/>
+      <point x="140" y="690"/>
+      <point x="114" y="690" type="curve"/>
+      <point x="89" y="690"/>
+      <point x="73" y="675"/>
+      <point x="73" y="650" type="curve" smooth="yes"/>
+      <point x="73" y="640" type="line" smooth="yes"/>
+      <point x="73" y="615"/>
+      <point x="88" y="600"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek" format="2">
+  <advance width="595.25"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="491" y="256" type="curve"/>
+      <point x="491" y="135"/>
+      <point x="408" y="46"/>
+      <point x="298" y="46" type="curve"/>
+      <point x="189" y="46"/>
+      <point x="105" y="135"/>
+      <point x="105" y="256" type="curve"/>
+      <point x="105" y="378"/>
+      <point x="189" y="467"/>
+      <point x="298" y="467" type="curve"/>
+      <point x="408" y="467"/>
+      <point x="491" y="378"/>
+    </contour>
+    <contour>
+      <point x="348" y="-191" type="curve"/>
+      <point x="394" y="-191"/>
+      <point x="431" y="-164"/>
+      <point x="431" y="-135" type="curve"/>
+      <point x="431" y="-122"/>
+      <point x="422" y="-113"/>
+      <point x="409" y="-113" type="curve"/>
+      <point x="399" y="-113"/>
+      <point x="390" y="-119"/>
+      <point x="381" y="-130" type="curve"/>
+      <point x="375" y="-136"/>
+      <point x="367" y="-140"/>
+      <point x="354" y="-140" type="curve"/>
+      <point x="329" y="-140"/>
+      <point x="304" y="-119"/>
+      <point x="304" y="-81" type="curve"/>
+      <point x="304" y="-45"/>
+      <point x="336" y="-11"/>
+      <point x="374" y="4" type="curve"/>
+      <point x="478" y="38"/>
+      <point x="551" y="132"/>
+      <point x="551" y="256" type="curve"/>
+      <point x="551" y="409"/>
+      <point x="442" y="523"/>
+      <point x="298" y="523" type="curve"/>
+      <point x="154" y="523"/>
+      <point x="45" y="409"/>
+      <point x="45" y="256" type="curve"/>
+      <point x="45" y="103"/>
+      <point x="154" y="-10"/>
+      <point x="298" y="-10" type="curve"/>
+      <point x="323" y="-1"/>
+      <point x="348" y="16"/>
+      <point x="362" y="38" type="curve"/>
+      <point x="310" y="22"/>
+      <point x="251" y="-15"/>
+      <point x="251" y="-92" type="curve"/>
+      <point x="251" y="-155"/>
+      <point x="298" y="-191"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

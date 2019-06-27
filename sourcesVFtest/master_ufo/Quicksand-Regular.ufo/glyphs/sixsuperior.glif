@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsuperior" format="2">
+  <advance width="278"/>
+  <unicode hex="2076"/>
+  <outline>
+    <component base="six.numr" yOffset="102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:02</string>
+    </dict>
+  </lib>
+</glyph>

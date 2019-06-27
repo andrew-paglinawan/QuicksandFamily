@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="231"/>
+  <unicode hex="0142"/>
+  <note>
+lslash
+</note>
+  <anchor x="115" y="0" name="bottom"/>
+  <anchor x="115" y="339" name="center"/>
+  <anchor x="115" y="740" name="top"/>
+  <anchor x="210" y="684" name="topright"/>
+  <outline>
+    <contour>
+      <point x="16" y="330" type="curve" smooth="yes"/>
+      <point x="20" y="330"/>
+      <point x="25" y="331"/>
+      <point x="30" y="334" type="curve" smooth="yes"/>
+      <point x="223" y="421" type="line" smooth="yes"/>
+      <point x="234" y="426"/>
+      <point x="242" y="435"/>
+      <point x="242" y="448" type="curve" smooth="yes"/>
+      <point x="242" y="460"/>
+      <point x="233" y="473"/>
+      <point x="218" y="473" type="curve" smooth="yes"/>
+      <point x="212" y="473"/>
+      <point x="206" y="471"/>
+      <point x="201" y="469" type="curve" smooth="yes"/>
+      <point x="9" y="381" type="line" smooth="yes"/>
+      <point x="-2" y="377"/>
+      <point x="-9" y="367"/>
+      <point x="-9" y="357" type="curve" smooth="yes"/>
+      <point x="-9" y="343"/>
+      <point x="1" y="330"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gmacron" format="2">
+  <advance width="615"/>
+  <unicode hex="1E21"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="308" y="686" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="macroncomb" xOffset="115" yOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:00</string>
+    </dict>
+  </lib>
+</glyph>

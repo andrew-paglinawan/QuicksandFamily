@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.dnom" format="2">
+  <advance width="277.5"/>
+  <outline>
+    <contour>
+      <point x="140" y="-11" type="curve"/>
+      <point x="200" y="-11"/>
+      <point x="248" y="35"/>
+      <point x="248" y="94" type="curve"/>
+      <point x="248" y="146"/>
+      <point x="214" y="195"/>
+      <point x="150" y="195" type="curve"/>
+      <point x="109" y="195"/>
+      <point x="70" y="162"/>
+      <point x="52" y="109" type="curve"/>
+      <point x="96" y="154" type="line"/>
+      <point x="108" y="214"/>
+      <point x="157" y="261"/>
+      <point x="210" y="273" type="curve"/>
+      <point x="232" y="273"/>
+      <point x="238" y="283"/>
+      <point x="238" y="297" type="curve"/>
+      <point x="238" y="316"/>
+      <point x="223" y="324"/>
+      <point x="198" y="324" type="curve"/>
+      <point x="129" y="324"/>
+      <point x="30" y="211"/>
+      <point x="30" y="109" type="curve"/>
+      <point x="30" y="49"/>
+      <point x="65" y="-11"/>
+    </contour>
+    <contour>
+      <point x="139" y="37" type="curve"/>
+      <point x="104" y="37"/>
+      <point x="83" y="61"/>
+      <point x="83" y="92" type="curve"/>
+      <point x="83" y="121"/>
+      <point x="105" y="148"/>
+      <point x="143" y="148" type="curve"/>
+      <point x="175" y="148"/>
+      <point x="194" y="120"/>
+      <point x="194" y="90" type="curve"/>
+      <point x="194" y="59"/>
+      <point x="168" y="37"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcaron.ss01" format="2">
+  <advance width="536"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="238" y="688" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="caroncomb" xOffset="73" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

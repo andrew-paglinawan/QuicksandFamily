@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="648"/>
+  <unicode hex="2265"/>
+  <note>
+greaterequal
+</note>
+  <outline>
+    <contour>
+      <point x="145" y="162" type="curve"/>
+      <point x="162" y="162"/>
+      <point x="182" y="168"/>
+      <point x="201" y="175" type="curve"/>
+      <point x="546" y="302" type="line"/>
+      <point x="563" y="308"/>
+      <point x="571" y="328"/>
+      <point x="571" y="348" type="curve"/>
+      <point x="571" y="368"/>
+      <point x="563" y="388"/>
+      <point x="546" y="394" type="curve"/>
+      <point x="201" y="515" type="line"/>
+      <point x="179" y="523"/>
+      <point x="159" y="531"/>
+      <point x="141" y="531" type="curve"/>
+      <point x="114" y="531"/>
+      <point x="97" y="503"/>
+      <point x="97" y="476" type="curve"/>
+      <point x="97" y="458"/>
+      <point x="105" y="441"/>
+      <point x="123" y="434" type="curve"/>
+      <point x="496" y="301" type="line"/>
+      <point x="489" y="389" type="line"/>
+      <point x="133" y="259" type="line"/>
+      <point x="113" y="250"/>
+      <point x="102" y="233"/>
+      <point x="102" y="212" type="curve"/>
+      <point x="102" y="189"/>
+      <point x="114" y="162"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="curve"/>
+      <point x="522" y="0" type="line"/>
+      <point x="556" y="0"/>
+      <point x="581" y="25"/>
+      <point x="581" y="56" type="curve"/>
+      <point x="581" y="86"/>
+      <point x="556" y="110"/>
+      <point x="522" y="110" type="curve"/>
+      <point x="121" y="110" type="line"/>
+      <point x="87" y="110"/>
+      <point x="62" y="87"/>
+      <point x="62" y="56" type="curve"/>
+      <point x="62" y="25"/>
+      <point x="87" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

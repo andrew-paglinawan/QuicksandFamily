@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="602"/>
+  <unicode hex="1EAD"/>
+  <anchor x="287" y="-142" name="bottom"/>
+  <anchor x="541" y="8" name="ogonek"/>
+  <anchor x="297" y="704" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="195" yOffset="8"/>
+    <component base="circumflexcomb" xOffset="123" yOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

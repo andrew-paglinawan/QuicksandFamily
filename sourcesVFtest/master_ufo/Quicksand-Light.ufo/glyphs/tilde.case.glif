@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.case" format="2">
+  <advance width="447"/>
+  <outline>
+    <contour>
+      <point x="284" y="716" type="curve"/>
+      <point x="334" y="716"/>
+      <point x="364" y="752"/>
+      <point x="364" y="802" type="curve"/>
+      <point x="364" y="810"/>
+      <point x="355" y="815"/>
+      <point x="347" y="815" type="curve"/>
+      <point x="336" y="815"/>
+      <point x="329" y="807"/>
+      <point x="328" y="797" type="curve"/>
+      <point x="324" y="770"/>
+      <point x="312" y="754"/>
+      <point x="292" y="754" type="curve"/>
+      <point x="258" y="754"/>
+      <point x="202" y="809"/>
+      <point x="160" y="809" type="curve"/>
+      <point x="102" y="809"/>
+      <point x="77" y="757"/>
+      <point x="77" y="727" type="curve"/>
+      <point x="77" y="716"/>
+      <point x="84" y="713"/>
+      <point x="93" y="713" type="curve"/>
+      <point x="101" y="713"/>
+      <point x="109" y="717"/>
+      <point x="112" y="727" type="curve"/>
+      <point x="121" y="758"/>
+      <point x="136" y="769"/>
+      <point x="156" y="769" type="curve"/>
+      <point x="190" y="769"/>
+      <point x="246" y="716"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

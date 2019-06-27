@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="596.25"/>
+  <unicode hex="20A7"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="128" y="168" name="center"/>
+  <anchor x="298" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="464" type="curve" smooth="yes"/>
+      <point x="587" y="464" type="line" smooth="yes"/>
+      <point x="604" y="464"/>
+      <point x="618" y="476"/>
+      <point x="618" y="492" type="curve" smooth="yes"/>
+      <point x="618" y="510"/>
+      <point x="604" y="522"/>
+      <point x="587" y="522" type="curve" smooth="yes"/>
+      <point x="40" y="522" type="line" smooth="yes"/>
+      <point x="22" y="522"/>
+      <point x="9" y="510"/>
+      <point x="9" y="492" type="curve" smooth="yes"/>
+      <point x="9" y="476"/>
+      <point x="22" y="464"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

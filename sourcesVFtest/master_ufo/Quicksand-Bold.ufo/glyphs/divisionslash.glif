@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="567"/>
+  <unicode hex="2215"/>
+  <note>
+divisionslash
+</note>
+  <outline>
+    <contour>
+      <point x="83" y="-134" type="curve" smooth="yes"/>
+      <point x="101" y="-134"/>
+      <point x="118" y="-123"/>
+      <point x="127" y="-104" type="curve" smooth="yes"/>
+      <point x="532" y="727" type="line" smooth="yes"/>
+      <point x="536" y="735"/>
+      <point x="538" y="746"/>
+      <point x="538" y="754" type="curve" smooth="yes"/>
+      <point x="538" y="784"/>
+      <point x="514" y="801"/>
+      <point x="486" y="801" type="curve" smooth="yes"/>
+      <point x="468" y="801"/>
+      <point x="451" y="790"/>
+      <point x="442" y="771" type="curve" smooth="yes"/>
+      <point x="36" y="-60" type="line" smooth="yes"/>
+      <point x="32" y="-68"/>
+      <point x="30" y="-76"/>
+      <point x="30" y="-84" type="curve" smooth="yes"/>
+      <point x="30" y="-113"/>
+      <point x="60" y="-134"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

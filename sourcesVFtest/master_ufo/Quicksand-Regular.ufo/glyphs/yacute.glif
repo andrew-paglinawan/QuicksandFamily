@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute" format="2">
+  <advance width="568"/>
+  <unicode hex="00FD"/>
+  <note>
+yacute
+</note>
+  <anchor x="356" y="0" name="bottom"/>
+  <anchor x="296" y="664" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="acutecomb" xOffset="178" yOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:02</string>
+    </dict>
+  </lib>
+</glyph>

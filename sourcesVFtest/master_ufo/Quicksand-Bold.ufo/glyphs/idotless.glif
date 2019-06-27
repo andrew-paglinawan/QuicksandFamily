@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="236"/>
+  <unicode hex="0131"/>
+  <note>
+dotlessi
+</note>
+  <anchor x="118" y="0" name="bottom"/>
+  <anchor x="212" y="10" name="ogonek"/>
+  <anchor x="118" y="515" name="top"/>
+  <outline>
+    <contour>
+      <point x="178" y="61" type="curve" smooth="yes"/>
+      <point x="178" y="474" type="line" smooth="yes"/>
+      <point x="178" y="509"/>
+      <point x="153" y="535"/>
+      <point x="118" y="535" type="curve" smooth="yes"/>
+      <point x="83" y="535"/>
+      <point x="58" y="509"/>
+      <point x="58" y="474" type="curve" smooth="yes"/>
+      <point x="58" y="61" type="line" smooth="yes"/>
+      <point x="58" y="26"/>
+      <point x="83" y="0"/>
+      <point x="118" y="0" type="curve" smooth="yes"/>
+      <point x="153" y="0"/>
+      <point x="178" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

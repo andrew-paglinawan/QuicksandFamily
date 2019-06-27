@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="569"/>
+  <unicode hex="0037"/>
+  <note>
+seven
+</note>
+  <outline>
+    <contour>
+      <point x="205" y="-5" type="curve"/>
+      <point x="228" y="-5"/>
+      <point x="250" y="9"/>
+      <point x="260" y="33" type="curve"/>
+      <point x="523" y="614" type="line"/>
+      <point x="527" y="623"/>
+      <point x="529" y="632"/>
+      <point x="529" y="641" type="curve"/>
+      <point x="529" y="676"/>
+      <point x="498" y="700"/>
+      <point x="464" y="700" type="curve"/>
+      <point x="116" y="700" type="line"/>
+      <point x="84" y="700"/>
+      <point x="60" y="677"/>
+      <point x="60" y="646" type="curve"/>
+      <point x="60" y="614"/>
+      <point x="84" y="590"/>
+      <point x="116" y="590" type="curve"/>
+      <point x="405" y="590" type="line"/>
+      <point x="394" y="617" type="line"/>
+      <point x="149" y="80" type="line"/>
+      <point x="145" y="71"/>
+      <point x="143" y="62"/>
+      <point x="143" y="53" type="curve"/>
+      <point x="143" y="20"/>
+      <point x="172" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

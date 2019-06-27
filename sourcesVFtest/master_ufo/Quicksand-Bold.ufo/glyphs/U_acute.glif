@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uacute" format="2">
+  <advance width="705"/>
+  <unicode hex="00DA"/>
+  <anchor x="353" y="0" name="bottom"/>
+  <anchor x="634" y="10" name="ogonek"/>
+  <anchor x="404" y="891" name="top"/>
+  <anchor x="486" y="713" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="acutecomb.case" xOffset="274"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

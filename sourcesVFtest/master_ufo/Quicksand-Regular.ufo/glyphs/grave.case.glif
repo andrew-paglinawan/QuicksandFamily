@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.case" format="2">
+  <advance width="229"/>
+  <anchor x="133" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="168" y="768" type="curve" smooth="yes"/>
+      <point x="178" y="768"/>
+      <point x="185" y="778"/>
+      <point x="185" y="785" type="curve" smooth="yes"/>
+      <point x="185" y="790"/>
+      <point x="183" y="795"/>
+      <point x="179" y="800" type="curve" smooth="yes"/>
+      <point x="119" y="895" type="line" smooth="yes"/>
+      <point x="113" y="906"/>
+      <point x="103" y="917"/>
+      <point x="86" y="917" type="curve" smooth="yes"/>
+      <point x="69" y="917"/>
+      <point x="53" y="908"/>
+      <point x="53" y="887" type="curve" smooth="yes"/>
+      <point x="53" y="877"/>
+      <point x="57" y="870"/>
+      <point x="63" y="863" type="curve" smooth="yes"/>
+      <point x="139" y="784" type="line" smooth="yes"/>
+      <point x="146" y="777"/>
+      <point x="157" y="768"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

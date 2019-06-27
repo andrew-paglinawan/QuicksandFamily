@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="643"/>
+  <unicode hex="00C5"/>
+  <anchor x="322" y="700" name="_top"/>
+  <anchor x="322" y="850" name="top"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="579" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="322" y="635" type="curve"/>
+      <point x="382" y="635"/>
+      <point x="436" y="685"/>
+      <point x="436" y="744" type="curve"/>
+      <point x="436" y="806"/>
+      <point x="382" y="855"/>
+      <point x="322" y="855" type="curve"/>
+      <point x="262" y="855"/>
+      <point x="208" y="806"/>
+      <point x="208" y="744" type="curve"/>
+      <point x="208" y="685"/>
+      <point x="262" y="635"/>
+    </contour>
+    <contour>
+      <point x="322" y="705" type="curve"/>
+      <point x="297" y="705"/>
+      <point x="278" y="721"/>
+      <point x="278" y="744" type="curve"/>
+      <point x="278" y="770"/>
+      <point x="297" y="785"/>
+      <point x="322" y="785" type="curve"/>
+      <point x="344" y="785"/>
+      <point x="366" y="772"/>
+      <point x="366" y="744" type="curve"/>
+      <point x="366" y="721"/>
+      <point x="347" y="705"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

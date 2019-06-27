@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Quicksand-Light.ufo" name="Quicksand Light" familyname="Quicksand" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Quicksand-Regular.ufo" name="Quicksand Regular" familyname="Quicksand" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Quicksand-Bold.ufo" name="Quicksand Bold" familyname="Quicksand" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Quicksand Light" familyname="Quicksand" stylename="Light" filename="../instance_ufo/Quicksand-Light.ufo" stylemapfamilyname="Quicksand Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Quicksand Regular" familyname="Quicksand" stylename="Regular" filename="../instance_ufo/Quicksand-Regular.ufo" stylemapfamilyname="Quicksand" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Quicksand Medium" familyname="Quicksand" stylename="Medium" filename="../instance_ufo/Quicksand-Medium.ufo" stylemapfamilyname="Quicksand Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Quicksand Bold" familyname="Quicksand" stylename="Bold" filename="../instance_ufo/Quicksand-Bold.ufo" stylemapfamilyname="Quicksand" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>254266E2-2911-423D-9D37-8CC6105656EE</key>
+        <dict>
+          <key>HH</key>
+          <string>40</string>
+          <key>HV</key>
+          <string>42</string>
+          <key>OH</key>
+          <string>40</string>
+          <key>OV</key>
+          <string>42</string>
+          <key>nV</key>
+          <string>40</string>
+          <key>nd</key>
+          <string>38</string>
+          <key>oH</key>
+          <string>38</string>
+          <key>oV</key>
+          <string>40</string>
+          <key>tH</key>
+          <string>38</string>
+        </dict>
+        <key>8816CCA3-DDF9-4C51-BD56-64EE3675A105</key>
+        <dict>
+          <key>HH</key>
+          <string>120</string>
+          <key>HV</key>
+          <string>130</string>
+          <key>OH</key>
+          <string>120</string>
+          <key>OV</key>
+          <string>130</string>
+          <key>nV</key>
+          <string>120</string>
+          <key>nd</key>
+          <string>78</string>
+          <key>oH</key>
+          <string>110</string>
+          <key>oV</key>
+          <string>120</string>
+          <key>tH</key>
+          <string>110</string>
+        </dict>
+        <key>FC6F0733-0359-42AE-8964-CBD0820AB524</key>
+        <dict>
+          <key>HH</key>
+          <string>70</string>
+          <key>HV</key>
+          <string>74</string>
+          <key>OH</key>
+          <string>70</string>
+          <key>OV</key>
+          <string>74</string>
+          <key>nV</key>
+          <string>70</string>
+          <key>nd</key>
+          <string>52</string>
+          <key>oH</key>
+          <string>66</string>
+          <key>oV</key>
+          <string>70</string>
+          <key>tH</key>
+          <string>66</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

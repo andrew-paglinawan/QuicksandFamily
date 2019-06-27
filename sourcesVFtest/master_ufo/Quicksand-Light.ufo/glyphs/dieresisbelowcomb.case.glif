@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb.case" format="2">
+  <anchor x="166" y="0" name="_bottom"/>
+  <anchor x="166" y="-128" name="bottom"/>
+  <outline>
+    <component base="dieresis" xOffset="-30" yOffset="-728"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>332</integer>
+    </dict>
+  </lib>
+</glyph>

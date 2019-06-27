@@ -26,7 +26,7 @@ echo "Made Quicksand-VF.ttf"
 
 echo "Removing Build UFOS"
 
-rm -rf master_ufo/ instance_ufo/
+# rm -rf master_ufo/ instance_ufo/
 
 echo "Build UFOS Removed"
 

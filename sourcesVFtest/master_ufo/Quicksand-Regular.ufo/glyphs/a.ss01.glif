@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.ss01" format="2">
+  <advance width="538"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="514" y="0" name="ogonek"/>
+  <anchor x="267" y="515" name="top"/>
+  <outline>
+    <contour>
+      <point x="248" y="44" type="curve"/>
+      <point x="168" y="44"/>
+      <point x="109" y="84"/>
+      <point x="109" y="153" type="curve"/>
+      <point x="109" y="221"/>
+      <point x="168" y="261"/>
+      <point x="247" y="261" type="curve"/>
+      <point x="329" y="261"/>
+      <point x="386" y="221"/>
+      <point x="386" y="153" type="curve"/>
+      <point x="386" y="85"/>
+      <point x="330" y="44"/>
+    </contour>
+    <contour>
+      <point x="221" y="-10" type="curve"/>
+      <point x="305" y="-10"/>
+      <point x="370" y="25"/>
+      <point x="402" y="87" type="curve"/>
+      <point x="380" y="66" type="line"/>
+      <point x="391" y="31"/>
+      <point x="415" y="0"/>
+      <point x="452" y="0" type="curve"/>
+      <point x="489" y="0"/>
+      <point x="531" y="20"/>
+      <point x="531" y="44" type="curve"/>
+      <point x="531" y="58"/>
+      <point x="522" y="67"/>
+      <point x="511" y="67" type="curve"/>
+      <point x="493" y="67"/>
+      <point x="484" y="54"/>
+      <point x="469" y="54" type="curve"/>
+      <point x="456" y="54"/>
+      <point x="440" y="68"/>
+      <point x="440" y="96" type="curve"/>
+      <point x="440" y="360" type="line"/>
+      <point x="440" y="480"/>
+      <point x="358" y="523"/>
+      <point x="253" y="523" type="curve"/>
+      <point x="167" y="523"/>
+      <point x="95" y="484"/>
+      <point x="58" y="432" type="curve"/>
+      <point x="52" y="424"/>
+      <point x="51" y="418"/>
+      <point x="51" y="411" type="curve"/>
+      <point x="51" y="397"/>
+      <point x="63" y="384"/>
+      <point x="77" y="384" type="curve"/>
+      <point x="87" y="384"/>
+      <point x="95" y="388"/>
+      <point x="101" y="396" type="curve"/>
+      <point x="132" y="439"/>
+      <point x="194" y="467"/>
+      <point x="250" y="467" type="curve"/>
+      <point x="321" y="467"/>
+      <point x="380" y="432"/>
+      <point x="380" y="356" type="curve"/>
+      <point x="380" y="223" type="line"/>
+      <point x="409" y="211" type="line"/>
+      <point x="389" y="268"/>
+      <point x="321" y="314"/>
+      <point x="242" y="314" type="curve"/>
+      <point x="148" y="314"/>
+      <point x="49" y="255"/>
+      <point x="49" y="150" type="curve"/>
+      <point x="49" y="64"/>
+      <point x="113" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

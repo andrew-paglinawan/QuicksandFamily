@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="312"/>
+  <unicode hex="00B0"/>
+  <note>
+degree
+</note>
+  <outline>
+    <contour>
+      <point x="156" y="432" type="curve"/>
+      <point x="230" y="432"/>
+      <point x="287" y="495"/>
+      <point x="287" y="570" type="curve"/>
+      <point x="287" y="643"/>
+      <point x="232" y="706"/>
+      <point x="156" y="706" type="curve"/>
+      <point x="82" y="706"/>
+      <point x="25" y="643"/>
+      <point x="25" y="568" type="curve"/>
+      <point x="25" y="495"/>
+      <point x="83" y="432"/>
+    </contour>
+    <contour>
+      <point x="156" y="470" type="curve"/>
+      <point x="104" y="470"/>
+      <point x="65" y="517"/>
+      <point x="65" y="568" type="curve"/>
+      <point x="65" y="621"/>
+      <point x="104" y="668"/>
+      <point x="156" y="668" type="curve"/>
+      <point x="208" y="668"/>
+      <point x="247" y="621"/>
+      <point x="247" y="570" type="curve"/>
+      <point x="247" y="517"/>
+      <point x="208" y="470"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

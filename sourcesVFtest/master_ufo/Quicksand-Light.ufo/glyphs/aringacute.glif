@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="595"/>
+  <unicode hex="01FB"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="535" y="10" name="ogonek"/>
+  <anchor x="352" y="873" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="161"/>
+    <component base="acutecomb.case" xOffset="238" yOffset="67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

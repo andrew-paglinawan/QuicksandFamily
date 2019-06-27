@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="79" y="700" name="_top"/>
+  <anchor x="130" y="891" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="738" type="curve" smooth="yes"/>
+      <point x="87" y="738"/>
+      <point x="95" y="739"/>
+      <point x="103" y="744" type="curve" smooth="yes"/>
+      <point x="203" y="797" type="line" smooth="yes"/>
+      <point x="227" y="809"/>
+      <point x="240" y="830"/>
+      <point x="240" y="850" type="curve" smooth="yes"/>
+      <point x="240" y="880"/>
+      <point x="210" y="899"/>
+      <point x="187" y="899" type="curve" smooth="yes"/>
+      <point x="169" y="899"/>
+      <point x="152" y="889"/>
+      <point x="138" y="877" type="curve" smooth="yes"/>
+      <point x="52" y="801" type="line" smooth="yes"/>
+      <point x="42" y="792"/>
+      <point x="38" y="783"/>
+      <point x="38" y="774" type="curve" smooth="yes"/>
+      <point x="38" y="752"/>
+      <point x="55" y="738"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>261</integer>
+    </dict>
+  </lib>
+</glyph>

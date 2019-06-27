@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="569"/>
+  <unicode hex="0075"/>
+  <note>
+u
+</note>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="512" y="10" name="ogonek"/>
+  <anchor x="285" y="503" name="top"/>
+  <anchor x="382" y="509" name="topright"/>
+  <outline>
+    <contour>
+      <point x="461" y="508" type="curve"/>
+      <point x="443" y="508"/>
+      <point x="431" y="495"/>
+      <point x="431" y="478" type="curve"/>
+      <point x="431" y="196" type="line"/>
+      <point x="431" y="99"/>
+      <point x="376" y="49"/>
+      <point x="284" y="49" type="curve"/>
+      <point x="193" y="49"/>
+      <point x="139" y="99"/>
+      <point x="139" y="196" type="curve"/>
+      <point x="139" y="478" type="line"/>
+      <point x="139" y="495"/>
+      <point x="126" y="508"/>
+      <point x="109" y="508" type="curve"/>
+      <point x="92" y="508"/>
+      <point x="79" y="495"/>
+      <point x="79" y="478" type="curve"/>
+      <point x="79" y="196" type="line"/>
+      <point x="79" y="64"/>
+      <point x="158" y="-7"/>
+      <point x="284" y="-7" type="curve"/>
+      <point x="411" y="-7"/>
+      <point x="491" y="64"/>
+      <point x="491" y="196" type="curve"/>
+      <point x="491" y="478" type="line"/>
+      <point x="491" y="495"/>
+      <point x="478" y="508"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

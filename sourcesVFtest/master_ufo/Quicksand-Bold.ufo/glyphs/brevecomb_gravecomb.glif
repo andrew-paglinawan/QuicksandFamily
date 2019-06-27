@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="195" y="515" name="_top"/>
+  <anchor x="213" y="726" name="top"/>
+  <outline>
+    <component base="brevecomb" yOffset="12"/>
+    <component base="gravecomb" xOffset="43" yOffset="153"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>426</integer>
+    </dict>
+  </lib>
+</glyph>

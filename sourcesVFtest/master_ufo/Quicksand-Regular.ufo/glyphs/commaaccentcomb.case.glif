@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <anchor x="97" y="0" name="_bottom"/>
+  <anchor x="97" y="-255" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="156" y="-107" type="curve" smooth="yes"/>
+      <point x="156" y="-67"/>
+      <point x="132" y="-47"/>
+      <point x="101" y="-47" type="curve"/>
+      <point x="68" y="-47"/>
+      <point x="49" y="-62"/>
+      <point x="49" y="-84" type="curve" smooth="yes"/>
+      <point x="49" y="-97"/>
+      <point x="58" y="-112"/>
+      <point x="75" y="-112" type="curve" smooth="yes"/>
+      <point x="87" y="-112"/>
+      <point x="89" y="-103"/>
+      <point x="97" y="-103" type="curve" smooth="yes"/>
+      <point x="103" y="-103"/>
+      <point x="107" y="-108"/>
+      <point x="107" y="-116" type="curve" smooth="yes"/>
+      <point x="107" y="-135"/>
+      <point x="99" y="-146"/>
+      <point x="88" y="-147" type="curve" smooth="yes"/>
+      <point x="73" y="-150"/>
+      <point x="66" y="-145"/>
+      <point x="59" y="-145" type="curve" smooth="yes"/>
+      <point x="51" y="-145"/>
+      <point x="44" y="-152"/>
+      <point x="44" y="-163" type="curve"/>
+      <point x="44" y="-175"/>
+      <point x="55" y="-183"/>
+      <point x="79" y="-183" type="curve"/>
+      <point x="119" y="-183"/>
+      <point x="156" y="-149"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>194</integer>
+    </dict>
+  </lib>
+</glyph>

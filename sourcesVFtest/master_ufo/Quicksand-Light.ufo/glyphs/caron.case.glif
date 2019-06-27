@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.case" format="2">
+  <advance width="332"/>
+  <outline>
+    <contour>
+      <point x="161" y="773" type="curve"/>
+      <point x="171" y="773" type="line"/>
+      <point x="182" y="773"/>
+      <point x="189" y="776"/>
+      <point x="195" y="785" type="curve"/>
+      <point x="276" y="871" type="line"/>
+      <point x="280" y="875"/>
+      <point x="282" y="879"/>
+      <point x="282" y="883" type="curve"/>
+      <point x="282" y="889"/>
+      <point x="277" y="895"/>
+      <point x="270" y="895" type="curve"/>
+      <point x="264" y="895"/>
+      <point x="258" y="891"/>
+      <point x="251" y="885" type="curve"/>
+      <point x="161" y="809" type="line"/>
+      <point x="172" y="813" type="line"/>
+      <point x="81" y="884" type="line"/>
+      <point x="74" y="890"/>
+      <point x="68" y="894"/>
+      <point x="62" y="894" type="curve"/>
+      <point x="55" y="894"/>
+      <point x="50" y="888"/>
+      <point x="50" y="882" type="curve"/>
+      <point x="50" y="878"/>
+      <point x="52" y="874"/>
+      <point x="56" y="870" type="curve"/>
+      <point x="137" y="785" type="line"/>
+      <point x="143" y="776"/>
+      <point x="150" y="773"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

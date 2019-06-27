@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="562"/>
+  <unicode hex="0079"/>
+  <note>
+y
+</note>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="281" y="499" name="top"/>
+  <outline>
+    <contour>
+      <point x="459" y="515" type="curve"/>
+      <point x="447" y="515"/>
+      <point x="439" y="506"/>
+      <point x="439" y="495" type="curve"/>
+      <point x="439" y="183" type="line"/>
+      <point x="439" y="106"/>
+      <point x="350" y="28"/>
+      <point x="261" y="28" type="curve"/>
+      <point x="161" y="28"/>
+      <point x="123" y="88"/>
+      <point x="123" y="183" type="curve"/>
+      <point x="123" y="495" type="line"/>
+      <point x="123" y="506"/>
+      <point x="115" y="515"/>
+      <point x="103" y="515" type="curve"/>
+      <point x="91" y="515"/>
+      <point x="83" y="506"/>
+      <point x="83" y="495" type="curve"/>
+      <point x="83" y="183" type="line"/>
+      <point x="83" y="68"/>
+      <point x="136" y="-10"/>
+      <point x="261" y="-10" type="curve"/>
+      <point x="336" y="-10"/>
+      <point x="412" y="37"/>
+      <point x="441" y="98" type="curve"/>
+      <point x="439" y="123" type="line"/>
+      <point x="439" y="49" type="line"/>
+      <point x="439" y="-77"/>
+      <point x="361" y="-164"/>
+      <point x="245" y="-164" type="curve"/>
+      <point x="188" y="-164"/>
+      <point x="139" y="-140"/>
+      <point x="116" y="-126" type="curve"/>
+      <point x="106" y="-120"/>
+      <point x="95" y="-125"/>
+      <point x="90" y="-135" type="curve"/>
+      <point x="85" y="-146"/>
+      <point x="91" y="-155"/>
+      <point x="101" y="-162" type="curve"/>
+      <point x="132" y="-183"/>
+      <point x="181" y="-200"/>
+      <point x="243" y="-200" type="curve"/>
+      <point x="378" y="-200"/>
+      <point x="479" y="-105"/>
+      <point x="479" y="49" type="curve"/>
+      <point x="479" y="495" type="line"/>
+      <point x="479" y="506"/>
+      <point x="471" y="515"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

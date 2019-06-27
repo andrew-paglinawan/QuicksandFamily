@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="574"/>
+  <unicode hex="20B9"/>
+  <anchor x="397" y="518" name="center"/>
+  <outline>
+    <contour>
+      <point x="428" y="1" type="curve" smooth="yes"/>
+      <point x="438" y="1"/>
+      <point x="447" y="10"/>
+      <point x="447" y="21" type="curve" smooth="yes"/>
+      <point x="447" y="27"/>
+      <point x="444" y="34"/>
+      <point x="436" y="39" type="curve"/>
+      <point x="416" y="52"/>
+      <point x="402" y="73"/>
+      <point x="402" y="170" type="curve"/>
+      <point x="402" y="284"/>
+      <point x="324" y="347"/>
+      <point x="244" y="347" type="curve"/>
+      <point x="290" y="339" type="line"/>
+      <point x="366" y="360"/>
+      <point x="420" y="427"/>
+      <point x="420" y="519" type="curve"/>
+      <point x="420" y="619"/>
+      <point x="340" y="692"/>
+      <point x="222" y="692" type="curve"/>
+      <point x="277" y="660" type="line"/>
+      <point x="499" y="660" type="line"/>
+      <point x="510" y="660"/>
+      <point x="519" y="668"/>
+      <point x="519" y="680" type="curve"/>
+      <point x="519" y="691"/>
+      <point x="510" y="700"/>
+      <point x="499" y="700" type="curve"/>
+      <point x="75" y="700" type="line"/>
+      <point x="64" y="700"/>
+      <point x="55" y="691"/>
+      <point x="55" y="680" type="curve"/>
+      <point x="55" y="668"/>
+      <point x="64" y="660"/>
+      <point x="75" y="660" type="curve"/>
+      <point x="217" y="660" type="line"/>
+      <point x="316" y="660"/>
+      <point x="378" y="599"/>
+      <point x="378" y="518" type="curve"/>
+      <point x="378" y="419"/>
+      <point x="306" y="360"/>
+      <point x="227" y="353" type="curve"/>
+      <point x="86" y="353" type="line"/>
+      <point x="75" y="353"/>
+      <point x="66" y="344"/>
+      <point x="66" y="333" type="curve"/>
+      <point x="66" y="321"/>
+      <point x="75" y="313"/>
+      <point x="86" y="313" type="curve"/>
+      <point x="214" y="313" type="line"/>
+      <point x="271" y="313"/>
+      <point x="360" y="294"/>
+      <point x="360" y="170" type="curve"/>
+      <point x="360" y="16"/>
+      <point x="417" y="1"/>
+    </contour>
+    <component base="strokeshortcomb" xOffset="246" yOffset="253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

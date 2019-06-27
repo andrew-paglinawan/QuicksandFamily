@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="189"/>
+  <outline>
+    <contour>
+      <point x="120" y="-6" type="curve"/>
+      <point x="130" y="-6"/>
+      <point x="139" y="3"/>
+      <point x="139" y="14" type="curve"/>
+      <point x="138" y="273" type="line"/>
+      <point x="138" y="283"/>
+      <point x="132" y="291"/>
+      <point x="123" y="293" type="curve"/>
+      <point x="118" y="294"/>
+      <point x="112" y="294"/>
+      <point x="106" y="290" type="curve"/>
+      <point x="36" y="247" type="line"/>
+      <point x="29" y="242"/>
+      <point x="26" y="236"/>
+      <point x="26" y="230" type="curve"/>
+      <point x="26" y="220"/>
+      <point x="34" y="212"/>
+      <point x="43" y="212" type="curve"/>
+      <point x="47" y="212"/>
+      <point x="51" y="214"/>
+      <point x="55" y="216" type="curve"/>
+      <point x="106" y="247" type="line"/>
+      <point x="100" y="249" type="line"/>
+      <point x="101" y="14" type="line"/>
+      <point x="101" y="3"/>
+      <point x="108" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

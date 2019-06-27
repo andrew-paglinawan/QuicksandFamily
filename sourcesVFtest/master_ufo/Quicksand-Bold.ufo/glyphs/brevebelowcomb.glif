@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="213" y="0" name="_bottom"/>
+  <anchor x="213" y="-172" name="bottom"/>
+  <outline>
+    <component base="breve" yOffset="-772"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>426</integer>
+    </dict>
+  </lib>
+</glyph>
