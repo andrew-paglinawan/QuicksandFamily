@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="275"/>
+  <unicode hex="0049"/>
+  <note>
+I
+</note>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="252" y="10" name="ogonek"/>
+  <anchor x="140" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="200" y="61" type="curve"/>
+      <point x="200" y="639" type="line"/>
+      <point x="200" y="674"/>
+      <point x="171" y="700"/>
+      <point x="139" y="700" type="curve"/>
+      <point x="101" y="700"/>
+      <point x="75" y="674"/>
+      <point x="75" y="639" type="curve"/>
+      <point x="75" y="61" type="line"/>
+      <point x="75" y="26"/>
+      <point x="100" y="0"/>
+      <point x="137" y="0" type="curve"/>
+      <point x="170" y="0"/>
+      <point x="200" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:20:55</string>
+    </dict>
+  </lib>
+</glyph>

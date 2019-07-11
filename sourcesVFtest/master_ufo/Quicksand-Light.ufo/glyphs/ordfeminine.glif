@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="349"/>
+  <unicode hex="00AA"/>
+  <note>
+ordfeminine
+</note>
+  <outline>
+    <contour>
+      <point x="149" y="391" type="curve"/>
+      <point x="218" y="391"/>
+      <point x="275" y="453"/>
+      <point x="275" y="503" type="curve"/>
+      <point x="259" y="474" type="line"/>
+      <point x="259" y="421" type="line"/>
+      <point x="259" y="410"/>
+      <point x="267" y="401"/>
+      <point x="279" y="401" type="curve"/>
+      <point x="290" y="401"/>
+      <point x="299" y="409"/>
+      <point x="299" y="421" type="curve"/>
+      <point x="299" y="674" type="line"/>
+      <point x="299" y="685"/>
+      <point x="291" y="694"/>
+      <point x="279" y="694" type="curve"/>
+      <point x="267" y="694"/>
+      <point x="259" y="684"/>
+      <point x="259" y="674" type="curve"/>
+      <point x="259" y="624" type="line"/>
+      <point x="275" y="583" type="line"/>
+      <point x="275" y="665"/>
+      <point x="222" y="710"/>
+      <point x="157" y="710" type="curve"/>
+      <point x="82" y="710"/>
+      <point x="25" y="643"/>
+      <point x="25" y="555" type="curve"/>
+      <point x="25" y="465"/>
+      <point x="67" y="391"/>
+    </contour>
+    <contour>
+      <point x="156" y="429" type="curve"/>
+      <point x="95" y="429"/>
+      <point x="65" y="486"/>
+      <point x="65" y="555" type="curve"/>
+      <point x="65" y="622"/>
+      <point x="111" y="672"/>
+      <point x="164" y="672" type="curve"/>
+      <point x="222" y="672"/>
+      <point x="263" y="629"/>
+      <point x="263" y="555" type="curve"/>
+      <point x="263" y="476"/>
+      <point x="219" y="429"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

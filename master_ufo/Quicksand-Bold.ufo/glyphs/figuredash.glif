@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash" format="2">
+  <advance width="516"/>
+  <unicode hex="2012"/>
+  <outline>
+    <component base="endash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/02/16 14:37:42</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.case" format="2">
+  <advance width="363"/>
+  <outline>
+    <contour>
+      <point x="182" y="713" type="curve" smooth="yes"/>
+      <point x="251" y="713"/>
+      <point x="306" y="757"/>
+      <point x="312" y="811" type="curve" smooth="yes"/>
+      <point x="315" y="826"/>
+      <point x="305" y="838"/>
+      <point x="290" y="838" type="curve" smooth="yes"/>
+      <point x="274" y="838"/>
+      <point x="266" y="829"/>
+      <point x="260" y="814" type="curve" smooth="yes"/>
+      <point x="251" y="781"/>
+      <point x="220" y="762"/>
+      <point x="182" y="762" type="curve" smooth="yes"/>
+      <point x="143" y="762"/>
+      <point x="112" y="781"/>
+      <point x="104" y="814" type="curve" smooth="yes"/>
+      <point x="98" y="829"/>
+      <point x="90" y="838"/>
+      <point x="73" y="838" type="curve" smooth="yes"/>
+      <point x="58" y="838"/>
+      <point x="48" y="826"/>
+      <point x="51" y="811" type="curve" smooth="yes"/>
+      <point x="57" y="757"/>
+      <point x="113" y="713"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

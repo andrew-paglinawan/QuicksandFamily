@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="438"/>
+  <outline>
+    <contour>
+      <point x="266" y="0" type="curve"/>
+      <point x="292" y="0"/>
+      <point x="311" y="19"/>
+      <point x="311" y="46" type="curve"/>
+      <point x="311" y="330" type="line"/>
+      <point x="311" y="360"/>
+      <point x="290" y="381"/>
+      <point x="261" y="381" type="curve"/>
+      <point x="250" y="381"/>
+      <point x="231" y="379"/>
+      <point x="216" y="360" type="curve"/>
+      <point x="51" y="168" type="line"/>
+      <point x="43" y="158"/>
+      <point x="40" y="146"/>
+      <point x="40" y="135" type="curve"/>
+      <point x="40" y="106"/>
+      <point x="64" y="85"/>
+      <point x="93" y="85" type="curve"/>
+      <point x="332" y="85" type="line"/>
+      <point x="359" y="85"/>
+      <point x="373" y="99"/>
+      <point x="373" y="125" type="curve"/>
+      <point x="373" y="151"/>
+      <point x="359" y="165"/>
+      <point x="332" y="165" type="curve"/>
+      <point x="132" y="165" type="line"/>
+      <point x="128" y="142" type="line"/>
+      <point x="263" y="293" type="line"/>
+      <point x="221" y="310" type="line"/>
+      <point x="221" y="46" type="line"/>
+      <point x="221" y="19"/>
+      <point x="240" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

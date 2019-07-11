@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="614"/>
+  <unicode hex="25CA"/>
+  <note>
+lozenge
+</note>
+  <outline>
+    <contour>
+      <point x="306" y="-8" type="curve" smooth="yes"/>
+      <point x="324" y="-8"/>
+      <point x="342" y="0"/>
+      <point x="355" y="18" type="curve" smooth="yes"/>
+      <point x="560" y="306" type="line" smooth="yes"/>
+      <point x="566" y="315"/>
+      <point x="569" y="324"/>
+      <point x="569" y="333" type="curve" smooth="yes"/>
+      <point x="569" y="342"/>
+      <point x="566" y="352"/>
+      <point x="560" y="360" type="curve" smooth="yes"/>
+      <point x="353" y="649" type="line" smooth="yes"/>
+      <point x="341" y="666"/>
+      <point x="323" y="675"/>
+      <point x="306" y="675" type="curve" smooth="yes"/>
+      <point x="289" y="675"/>
+      <point x="272" y="666"/>
+      <point x="259" y="649" type="curve" smooth="yes"/>
+      <point x="54" y="360" type="line" smooth="yes"/>
+      <point x="48" y="352"/>
+      <point x="45" y="342"/>
+      <point x="45" y="333" type="curve" smooth="yes"/>
+      <point x="45" y="324"/>
+      <point x="48" y="315"/>
+      <point x="54" y="306" type="curve" smooth="yes"/>
+      <point x="261" y="17" type="line" smooth="yes"/>
+      <point x="273" y="1"/>
+      <point x="290" y="-8"/>
+    </contour>
+    <contour>
+      <point x="303" y="118" type="curve"/>
+      <point x="156" y="330" type="line"/>
+      <point x="155" y="332"/>
+      <point x="155" y="334"/>
+      <point x="156" y="336" type="curve"/>
+      <point x="303" y="547" type="line"/>
+      <point x="306" y="550"/>
+      <point x="308" y="550"/>
+      <point x="311" y="547" type="curve"/>
+      <point x="458" y="336" type="line"/>
+      <point x="459" y="334"/>
+      <point x="459" y="332"/>
+      <point x="458" y="330" type="curve"/>
+      <point x="311" y="118" type="line"/>
+      <point x="308" y="115"/>
+      <point x="306" y="115"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance width="206"/>
+  <unicode hex="1E2F"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="165" y="10" name="ogonek"/>
+  <anchor x="103" y="769" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresiscomb" xOffset="-54" yOffset="-1"/>
+    <component base="acutecomb" xOffset="-11" yOffset="123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:01</string>
+    </dict>
+  </lib>
+</glyph>

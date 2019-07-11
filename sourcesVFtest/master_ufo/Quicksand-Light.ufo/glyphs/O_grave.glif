@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="768"/>
+  <unicode hex="00D2"/>
+  <anchor x="384" y="0" name="bottom"/>
+  <anchor x="384" y="350" name="center"/>
+  <anchor x="691" y="10" name="ogonek"/>
+  <anchor x="362" y="843" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="391" y="697" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecomb.case" xOffset="249" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

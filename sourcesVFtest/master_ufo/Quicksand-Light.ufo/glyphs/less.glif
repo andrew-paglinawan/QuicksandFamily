@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="522"/>
+  <unicode hex="003C"/>
+  <note>
+less
+</note>
+  <outline>
+    <contour>
+      <point x="433" y="0" type="curve"/>
+      <point x="444" y="0"/>
+      <point x="452" y="9"/>
+      <point x="452" y="19" type="curve"/>
+      <point x="452" y="32"/>
+      <point x="446" y="37"/>
+      <point x="428" y="46" type="curve"/>
+      <point x="79" y="239" type="line"/>
+      <point x="79" y="236" type="line"/>
+      <point x="433" y="433" type="line"/>
+      <point x="443" y="438"/>
+      <point x="449" y="444"/>
+      <point x="449" y="457" type="curve"/>
+      <point x="449" y="467"/>
+      <point x="440" y="476"/>
+      <point x="427" y="475" type="curve"/>
+      <point x="422" y="475"/>
+      <point x="416" y="473"/>
+      <point x="411" y="470" type="curve"/>
+      <point x="60" y="271" type="line"/>
+      <point x="45" y="263"/>
+      <point x="35" y="255"/>
+      <point x="35" y="240" type="curve"/>
+      <point x="35" y="225"/>
+      <point x="40" y="217"/>
+      <point x="56" y="209" type="curve"/>
+      <point x="415" y="6" type="line"/>
+      <point x="420" y="3"/>
+      <point x="428" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

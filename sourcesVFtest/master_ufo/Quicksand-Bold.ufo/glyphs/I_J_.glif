@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="587"/>
+  <unicode hex="0132"/>
+  <note>
+IJ
+</note>
+  <anchor x="-105" y="239" name="bottom"/>
+  <anchor x="7" y="10" name="ogonek"/>
+  <anchor x="-105" y="700" name="top"/>
+  <anchor x="-225" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="206" y="315" type="curve"/>
+      <point x="206" y="639" type="line"/>
+      <point x="206" y="674"/>
+      <point x="177" y="700"/>
+      <point x="145" y="700" type="curve"/>
+      <point x="107" y="700"/>
+      <point x="81" y="674"/>
+      <point x="81" y="639" type="curve"/>
+      <point x="81" y="315" type="line"/>
+      <point x="81" y="280"/>
+      <point x="106" y="254"/>
+      <point x="143" y="254" type="curve"/>
+      <point x="176" y="254"/>
+      <point x="206" y="280"/>
+    </contour>
+    <component base="J" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:20:55</string>
+    </dict>
+  </lib>
+</glyph>

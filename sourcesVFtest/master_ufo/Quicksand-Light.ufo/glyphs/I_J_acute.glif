@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJacute" format="2">
+  <advance width="603"/>
+  <anchor x="137" y="0" name="bottom"/>
+  <anchor x="234" y="10" name="ogonek"/>
+  <anchor x="523" y="847" name="top"/>
+  <anchor x="137" y="700" name="topleft"/>
+  <outline>
+    <component base="IJ"/>
+    <component base="acutecomb.case" xOffset="64" yOffset="41"/>
+    <component base="acutecomb.case" xOffset="409" yOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:09</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

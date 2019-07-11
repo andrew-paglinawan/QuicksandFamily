@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utildeacute" format="2">
+  <advance width="569"/>
+  <unicode hex="1E79"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="512" y="10" name="ogonek"/>
+  <anchor x="297" y="865" name="top"/>
+  <anchor x="382" y="509" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb" xOffset="83" yOffset="-8"/>
+    <component base="acutecomb" xOffset="179" yOffset="193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:01</string>
+    </dict>
+  </lib>
+</glyph>

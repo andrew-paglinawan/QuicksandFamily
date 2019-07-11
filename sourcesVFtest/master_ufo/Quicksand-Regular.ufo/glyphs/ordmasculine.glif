@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="348.5"/>
+  <unicode hex="00BA"/>
+  <note>
+ordmasculine
+</note>
+  <outline>
+    <contour>
+      <point x="326" y="549" type="curve"/>
+      <point x="326" y="640"/>
+      <point x="261" y="710"/>
+      <point x="173" y="710" type="curve"/>
+      <point x="87" y="710"/>
+      <point x="23" y="640"/>
+      <point x="23" y="549" type="curve"/>
+      <point x="23" y="459"/>
+      <point x="87" y="392"/>
+      <point x="173" y="392" type="curve"/>
+      <point x="261" y="392"/>
+      <point x="326" y="459"/>
+    </contour>
+    <contour>
+      <point x="274" y="549" type="curve"/>
+      <point x="274" y="488"/>
+      <point x="235" y="441"/>
+      <point x="173" y="441" type="curve"/>
+      <point x="113" y="441"/>
+      <point x="75" y="488"/>
+      <point x="75" y="549" type="curve"/>
+      <point x="75" y="613"/>
+      <point x="113" y="660"/>
+      <point x="173" y="660" type="curve"/>
+      <point x="235" y="660"/>
+      <point x="274" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

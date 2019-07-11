@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis.ss01" format="2">
+  <advance width="565"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="547" y="0" name="ogonek"/>
+  <anchor x="272" y="718" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="dieresiscomb" xOffset="61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:02</string>
+    </dict>
+  </lib>
+</glyph>

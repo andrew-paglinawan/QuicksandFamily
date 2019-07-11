@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent" format="2">
+  <advance width="572"/>
+  <unicode hex="0146"/>
+  <note>
+ncommaaccent
+</note>
+  <anchor x="283" y="-205" name="bottom"/>
+  <anchor x="286" y="499" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="commaaccentcomb" xOffset="193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

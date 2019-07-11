@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute.ss01" format="2">
+  <advance width="529"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="503" y="0" name="ogonek"/>
+  <anchor x="265" y="751" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb_acutecomb" xOffset="97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

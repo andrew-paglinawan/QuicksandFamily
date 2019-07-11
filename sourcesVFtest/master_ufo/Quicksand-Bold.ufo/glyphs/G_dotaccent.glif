@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="696"/>
+  <unicode hex="0120"/>
+  <anchor x="402" y="0" name="bottom"/>
+  <anchor x="388" y="899" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccentcomb.case" xOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

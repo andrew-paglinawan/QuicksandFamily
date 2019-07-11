@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="180" y="700" name="_top"/>
+  <anchor x="130" y="931" name="top"/>
+  <outline>
+    <contour>
+      <point x="178" y="742" type="curve" smooth="yes"/>
+      <point x="203" y="742"/>
+      <point x="220" y="756"/>
+      <point x="220" y="778" type="curve" smooth="yes"/>
+      <point x="220" y="787"/>
+      <point x="216" y="796"/>
+      <point x="206" y="805" type="curve" smooth="yes"/>
+      <point x="120" y="881" type="line" smooth="yes"/>
+      <point x="106" y="893"/>
+      <point x="89" y="903"/>
+      <point x="71" y="903" type="curve" smooth="yes"/>
+      <point x="48" y="903"/>
+      <point x="18" y="884"/>
+      <point x="18" y="854" type="curve" smooth="yes"/>
+      <point x="18" y="834"/>
+      <point x="31" y="814"/>
+      <point x="55" y="801" type="curve" smooth="yes"/>
+      <point x="155" y="748" type="line" smooth="yes"/>
+      <point x="163" y="744"/>
+      <point x="171" y="742"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>259</integer>
+    </dict>
+  </lib>
+</glyph>

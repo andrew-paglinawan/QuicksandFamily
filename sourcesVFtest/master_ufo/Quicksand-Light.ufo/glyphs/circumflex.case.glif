@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.case" format="2">
+  <advance width="373"/>
+  <anchor x="187" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="191" y="856" type="line"/>
+      <point x="180" y="852" type="line"/>
+      <point x="271" y="781" type="line"/>
+      <point x="278" y="775"/>
+      <point x="284" y="771"/>
+      <point x="290" y="771" type="curve"/>
+      <point x="297" y="771"/>
+      <point x="302" y="777"/>
+      <point x="302" y="783" type="curve"/>
+      <point x="302" y="787"/>
+      <point x="300" y="791"/>
+      <point x="296" y="795" type="curve"/>
+      <point x="215" y="880" type="line"/>
+      <point x="209" y="889"/>
+      <point x="202" y="892"/>
+      <point x="191" y="892" type="curve"/>
+      <point x="181" y="892" type="line"/>
+      <point x="170" y="892"/>
+      <point x="163" y="889"/>
+      <point x="157" y="880" type="curve"/>
+      <point x="76" y="794" type="line"/>
+      <point x="72" y="790"/>
+      <point x="70" y="786"/>
+      <point x="70" y="782" type="curve"/>
+      <point x="70" y="776"/>
+      <point x="75" y="770"/>
+      <point x="82" y="770" type="curve"/>
+      <point x="88" y="770"/>
+      <point x="94" y="774"/>
+      <point x="101" y="780" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

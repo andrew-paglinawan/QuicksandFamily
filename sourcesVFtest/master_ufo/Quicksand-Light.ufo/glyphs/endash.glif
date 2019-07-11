@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="508"/>
+  <unicode hex="2013"/>
+  <note>
+endash
+</note>
+  <outline>
+    <contour>
+      <point x="81" y="228" type="curve"/>
+      <point x="427" y="228" type="line"/>
+      <point x="439" y="228"/>
+      <point x="448" y="235"/>
+      <point x="448" y="247" type="curve"/>
+      <point x="448" y="260"/>
+      <point x="439" y="266"/>
+      <point x="427" y="266" type="curve"/>
+      <point x="81" y="266" type="line"/>
+      <point x="69" y="266"/>
+      <point x="60" y="260"/>
+      <point x="60" y="247" type="curve"/>
+      <point x="60" y="235"/>
+      <point x="69" y="228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="580"/>
+  <unicode hex="0259"/>
+  <anchor x="290" y="515" name="bottom"/>
+  <anchor x="58" y="505" name="ogonek"/>
+  <anchor x="292" y="0" name="top"/>
+  <outline>
+    <component base="e" xScale="-1" yScale="-1" xOffset="580" yOffset="515"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:00</string>
+    </dict>
+  </lib>
+</glyph>

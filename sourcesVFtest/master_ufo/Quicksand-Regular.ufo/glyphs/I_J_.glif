@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="600"/>
+  <unicode hex="0132"/>
+  <note>
+IJ
+</note>
+  <anchor x="77" y="60" name="bottom"/>
+  <anchor x="177" y="10" name="ogonek"/>
+  <anchor x="336" y="700" name="top"/>
+  <anchor x="47" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="170" y="267" type="curve"/>
+      <point x="170" y="669" type="line"/>
+      <point x="170" y="687"/>
+      <point x="156" y="700"/>
+      <point x="139" y="700" type="curve"/>
+      <point x="121" y="700"/>
+      <point x="107" y="687"/>
+      <point x="107" y="669" type="curve"/>
+      <point x="107" y="267" type="line"/>
+      <point x="107" y="249"/>
+      <point x="120" y="236"/>
+      <point x="139" y="236" type="curve"/>
+      <point x="155" y="236"/>
+      <point x="169" y="249"/>
+    </contour>
+    <component base="J" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:20:55</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

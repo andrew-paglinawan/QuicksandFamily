@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <anchor x="180" y="700" name="_top"/>
+  <anchor x="180" y="888" name="top"/>
+  <outline>
+    <contour>
+      <point x="148" y="756" type="curve"/>
+      <point x="157" y="756"/>
+      <point x="160" y="763"/>
+      <point x="160" y="768" type="curve"/>
+      <point x="160" y="775"/>
+      <point x="156" y="779"/>
+      <point x="151" y="783" type="curve"/>
+      <point x="61" y="850" type="line"/>
+      <point x="56" y="854"/>
+      <point x="48" y="858"/>
+      <point x="39" y="858" type="curve"/>
+      <point x="23" y="858"/>
+      <point x="16" y="846"/>
+      <point x="16" y="834" type="curve"/>
+      <point x="16" y="822"/>
+      <point x="21" y="815"/>
+      <point x="30" y="810" type="curve"/>
+      <point x="127" y="763" type="line"/>
+      <point x="133" y="760"/>
+      <point x="140" y="756"/>
+    </contour>
+    <contour>
+      <point x="303" y="752" type="curve"/>
+      <point x="312" y="752"/>
+      <point x="315" y="759"/>
+      <point x="315" y="764" type="curve"/>
+      <point x="315" y="771"/>
+      <point x="311" y="775"/>
+      <point x="306" y="779" type="curve"/>
+      <point x="216" y="846" type="line"/>
+      <point x="211" y="850"/>
+      <point x="203" y="854"/>
+      <point x="194" y="854" type="curve"/>
+      <point x="178" y="854"/>
+      <point x="171" y="842"/>
+      <point x="171" y="830" type="curve"/>
+      <point x="171" y="818"/>
+      <point x="176" y="811"/>
+      <point x="185" y="806" type="curve"/>
+      <point x="282" y="759" type="line"/>
+      <point x="288" y="756"/>
+      <point x="295" y="752"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>360</integer>
+    </dict>
+  </lib>
+</glyph>

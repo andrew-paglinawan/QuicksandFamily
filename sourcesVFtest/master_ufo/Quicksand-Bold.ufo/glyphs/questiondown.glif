@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="527"/>
+  <unicode hex="00BF"/>
+  <note>
+questiondown
+</note>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="511" yOffset="525"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

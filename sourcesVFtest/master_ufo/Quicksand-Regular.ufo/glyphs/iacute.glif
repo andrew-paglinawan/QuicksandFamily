@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="214"/>
+  <unicode hex="00ED"/>
+  <note>
+iacute
+</note>
+  <anchor x="107" y="0" name="bottom"/>
+  <anchor x="177" y="10" name="ogonek"/>
+  <anchor x="119" y="664" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="1" yOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/22 00:21:01</string>
+    </dict>
+  </lib>
+</glyph>

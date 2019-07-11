@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent.ss01" format="2">
+  <advance width="529.5"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="238" y="499" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="comma" xScale="-1" yScale="-1" xOffset="348" yOffset="631"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="562"/>
+  <unicode hex="0046"/>
+  <note>
+F
+</note>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="132" y="186" name="center"/>
+  <anchor x="281" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="curve"/>
+      <point x="171" y="0"/>
+      <point x="200" y="26"/>
+      <point x="200" y="61" type="curve"/>
+      <point x="200" y="303" type="line"/>
+      <point x="191" y="294" type="line"/>
+      <point x="416" y="294" type="line"/>
+      <point x="451" y="294"/>
+      <point x="477" y="321"/>
+      <point x="477" y="350" type="curve"/>
+      <point x="477" y="385"/>
+      <point x="451" y="409"/>
+      <point x="416" y="409" type="curve"/>
+      <point x="193" y="409" type="line"/>
+      <point x="200" y="396" type="line"/>
+      <point x="200" y="597" type="line"/>
+      <point x="191" y="585" type="line"/>
+      <point x="461" y="585" type="line"/>
+      <point x="496" y="585"/>
+      <point x="522" y="612"/>
+      <point x="522" y="641" type="curve"/>
+      <point x="522" y="676"/>
+      <point x="496" y="700"/>
+      <point x="461" y="700" type="curve"/>
+      <point x="136" y="700" type="line"/>
+      <point x="101" y="700"/>
+      <point x="75" y="674"/>
+      <point x="75" y="639" type="curve"/>
+      <point x="75" y="61" type="line"/>
+      <point x="75" y="26"/>
+      <point x="100" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

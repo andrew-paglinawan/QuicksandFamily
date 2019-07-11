@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="165" y="503" name="_top"/>
+  <anchor x="165" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="156" y="569" type="curve" smooth="yes"/>
+      <point x="172" y="569" type="line" smooth="yes"/>
+      <point x="187" y="569"/>
+      <point x="197" y="573"/>
+      <point x="205" y="585" type="curve" smooth="yes"/>
+      <point x="277" y="663" type="line" smooth="yes"/>
+      <point x="283" y="670"/>
+      <point x="286" y="676"/>
+      <point x="286" y="681" type="curve" smooth="yes"/>
+      <point x="286" y="689"/>
+      <point x="278" y="697"/>
+      <point x="268" y="697" type="curve" smooth="yes"/>
+      <point x="258" y="697"/>
+      <point x="250" y="692"/>
+      <point x="240" y="683" type="curve" smooth="yes"/>
+      <point x="158" y="613" type="line"/>
+      <point x="172" y="615" type="line"/>
+      <point x="88" y="683" type="line" smooth="yes"/>
+      <point x="78" y="691"/>
+      <point x="70" y="696"/>
+      <point x="62" y="696" type="curve" smooth="yes"/>
+      <point x="50" y="696"/>
+      <point x="43" y="688"/>
+      <point x="43" y="680" type="curve" smooth="yes"/>
+      <point x="43" y="674"/>
+      <point x="45" y="669"/>
+      <point x="51" y="663" type="curve" smooth="yes"/>
+      <point x="122" y="585" type="line" smooth="yes"/>
+      <point x="131" y="573"/>
+      <point x="141" y="569"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>329</integer>
+    </dict>
+  </lib>
+</glyph>

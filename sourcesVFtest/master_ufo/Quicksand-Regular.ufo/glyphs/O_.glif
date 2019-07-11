@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="765.75"/>
+  <unicode hex="004F"/>
+  <note>
+O
+</note>
+  <anchor x="383" y="0" name="bottom"/>
+  <anchor x="383" y="350" name="center"/>
+  <anchor x="689" y="10" name="ogonek"/>
+  <anchor x="383" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="388" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="718" y="350" type="curve"/>
+      <point x="718" y="560"/>
+      <point x="579" y="710"/>
+      <point x="383" y="710" type="curve"/>
+      <point x="187" y="710"/>
+      <point x="48" y="560"/>
+      <point x="48" y="350" type="curve"/>
+      <point x="48" y="141"/>
+      <point x="187" y="-10"/>
+      <point x="383" y="-10" type="curve"/>
+      <point x="579" y="-10"/>
+      <point x="718" y="141"/>
+    </contour>
+    <contour>
+      <point x="654" y="350" type="curve"/>
+      <point x="654" y="173"/>
+      <point x="542" y="50"/>
+      <point x="383" y="50" type="curve"/>
+      <point x="224" y="50"/>
+      <point x="112" y="173"/>
+      <point x="112" y="350" type="curve"/>
+      <point x="112" y="527"/>
+      <point x="224" y="650"/>
+      <point x="383" y="650" type="curve"/>
+      <point x="542" y="650"/>
+      <point x="654" y="527"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

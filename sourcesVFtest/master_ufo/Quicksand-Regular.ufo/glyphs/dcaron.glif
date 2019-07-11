@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="775.5"/>
+  <unicode hex="010F"/>
+  <note>
+dcaron
+</note>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="470" y="614" name="center"/>
+  <anchor x="302" y="503" name="top"/>
+  <anchor x="582" y="503" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="caronalt" xOffset="594"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="532"/>
+  <unicode hex="004C"/>
+  <note>
+L
+</note>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="266" y="350" name="center"/>
+  <anchor x="116" y="700" name="top"/>
+  <anchor x="512" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="481" y="59" type="curve"/>
+      <point x="138" y="59" type="line"/>
+      <point x="157" y="42" type="line"/>
+      <point x="157" y="670" type="line"/>
+      <point x="157" y="687"/>
+      <point x="143" y="700"/>
+      <point x="126" y="700" type="curve"/>
+      <point x="107" y="700"/>
+      <point x="94" y="687"/>
+      <point x="94" y="670" type="curve"/>
+      <point x="94" y="30" type="line"/>
+      <point x="94" y="13"/>
+      <point x="106" y="0"/>
+      <point x="124" y="0" type="curve"/>
+      <point x="481" y="0" type="line"/>
+      <point x="498" y="0"/>
+      <point x="511" y="12"/>
+      <point x="511" y="30" type="curve"/>
+      <point x="511" y="47"/>
+      <point x="498" y="59"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

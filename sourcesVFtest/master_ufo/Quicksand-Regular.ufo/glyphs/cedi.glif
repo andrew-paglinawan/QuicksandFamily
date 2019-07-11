@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="653.25"/>
+  <unicode hex="20B5"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="390" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="424" y="-119" type="curve" smooth="yes"/>
+      <point x="424" y="7" type="line"/>
+      <point x="421" y="35" type="line"/>
+      <point x="421" y="667" type="line"/>
+      <point x="424" y="688" type="line"/>
+      <point x="424" y="787" type="line" smooth="yes"/>
+      <point x="424" y="804"/>
+      <point x="411" y="817"/>
+      <point x="394" y="817" type="curve" smooth="yes"/>
+      <point x="376" y="817"/>
+      <point x="364" y="804"/>
+      <point x="364" y="787" type="curve" smooth="yes"/>
+      <point x="364" y="690" type="line"/>
+      <point x="366" y="666" type="line"/>
+      <point x="366" y="37" type="line"/>
+      <point x="364" y="4" type="line"/>
+      <point x="364" y="-119" type="line" smooth="yes"/>
+      <point x="364" y="-136"/>
+      <point x="376" y="-150"/>
+      <point x="393" y="-150" type="curve" smooth="yes"/>
+      <point x="411" y="-150"/>
+      <point x="424" y="-136"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

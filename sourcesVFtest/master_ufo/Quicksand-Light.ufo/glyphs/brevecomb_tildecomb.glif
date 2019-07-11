@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="181" y="504" name="_top"/>
+  <anchor x="169" y="787" name="top"/>
+  <outline>
+    <component base="brevecomb" xOffset="12" yOffset="39"/>
+    <component base="tildecomb" yOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>387</integer>
+    </dict>
+  </lib>
+</glyph>

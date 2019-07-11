@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="592.5"/>
+  <unicode hex="2264"/>
+  <note>
+lessequal
+</note>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="curve"/>
+      <point x="500" y="0" type="line"/>
+      <point x="517" y="0"/>
+      <point x="530" y="13"/>
+      <point x="530" y="28" type="curve"/>
+      <point x="530" y="45"/>
+      <point x="517" y="58"/>
+      <point x="499" y="58" type="curve"/>
+      <point x="98" y="58" type="line"/>
+      <point x="80" y="58"/>
+      <point x="67" y="47"/>
+      <point x="67" y="30" type="curve"/>
+      <point x="67" y="12"/>
+      <point x="80" y="0"/>
+    </contour>
+    <contour>
+      <point x="493" y="110" type="curve"/>
+      <point x="510" y="109"/>
+      <point x="521" y="123"/>
+      <point x="521" y="137" type="curve"/>
+      <point x="521" y="151"/>
+      <point x="514" y="160"/>
+      <point x="502" y="165" type="curve"/>
+      <point x="106" y="315" type="line"/>
+      <point x="108" y="291" type="line"/>
+      <point x="496" y="440" type="line"/>
+      <point x="514" y="447"/>
+      <point x="522" y="456"/>
+      <point x="522" y="471" type="curve"/>
+      <point x="522" y="485"/>
+      <point x="513" y="498"/>
+      <point x="497" y="498" type="curve"/>
+      <point x="489" y="498"/>
+      <point x="478" y="494"/>
+      <point x="469" y="491" type="curve"/>
+      <point x="76" y="337" type="line"/>
+      <point x="60" y="330"/>
+      <point x="54" y="319"/>
+      <point x="54" y="302" type="curve"/>
+      <point x="54" y="286"/>
+      <point x="64" y="275"/>
+      <point x="79" y="268" type="curve"/>
+      <point x="466" y="117" type="line"/>
+      <point x="475" y="114"/>
+      <point x="485" y="110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

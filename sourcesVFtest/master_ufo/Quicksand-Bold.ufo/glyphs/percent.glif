@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="816"/>
+  <unicode hex="0025"/>
+  <note>
+percent
+</note>
+  <outline>
+    <contour>
+      <point x="194" y="320" type="curve"/>
+      <point x="285" y="320"/>
+      <point x="357" y="405"/>
+      <point x="357" y="514" type="curve"/>
+      <point x="357" y="624"/>
+      <point x="291" y="709"/>
+      <point x="194" y="709" type="curve"/>
+      <point x="97" y="709"/>
+      <point x="30" y="624"/>
+      <point x="30" y="514" type="curve"/>
+      <point x="30" y="405"/>
+      <point x="98" y="320"/>
+    </contour>
+    <contour>
+      <point x="194" y="409" type="curve"/>
+      <point x="153" y="409"/>
+      <point x="130" y="454"/>
+      <point x="130" y="514" type="curve"/>
+      <point x="130" y="574"/>
+      <point x="154" y="619"/>
+      <point x="194" y="619" type="curve"/>
+      <point x="235" y="619"/>
+      <point x="257" y="574"/>
+      <point x="257" y="514" type="curve"/>
+      <point x="257" y="454"/>
+      <point x="234" y="409"/>
+    </contour>
+    <contour>
+      <point x="623" y="-10" type="curve"/>
+      <point x="714" y="-10"/>
+      <point x="786" y="75"/>
+      <point x="786" y="184" type="curve"/>
+      <point x="786" y="294"/>
+      <point x="720" y="379"/>
+      <point x="623" y="379" type="curve"/>
+      <point x="526" y="379"/>
+      <point x="459" y="294"/>
+      <point x="459" y="184" type="curve"/>
+      <point x="459" y="75"/>
+      <point x="531" y="-10"/>
+    </contour>
+    <contour>
+      <point x="623" y="79" type="curve"/>
+      <point x="582" y="79"/>
+      <point x="559" y="124"/>
+      <point x="559" y="184" type="curve"/>
+      <point x="559" y="244"/>
+      <point x="583" y="289"/>
+      <point x="623" y="289" type="curve"/>
+      <point x="664" y="289"/>
+      <point x="686" y="244"/>
+      <point x="686" y="184" type="curve"/>
+      <point x="686" y="124"/>
+      <point x="663" y="79"/>
+    </contour>
+    <component base="fraction" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

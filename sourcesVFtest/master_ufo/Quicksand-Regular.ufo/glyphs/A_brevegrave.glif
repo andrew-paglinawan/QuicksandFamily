@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="647"/>
+  <unicode hex="1EB0"/>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="583" y="10" name="ogonek"/>
+  <anchor x="295" y="1064" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb.case" xOffset="135" yOffset="46"/>
+    <component base="gravecomb.case" xOffset="178" yOffset="229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

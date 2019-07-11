@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="275"/>
+  <unicode hex="201A"/>
+  <note>
+quotesinglbase
+</note>
+  <outline>
+    <component base="comma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/02/16 14:37:42</string>
+    </dict>
+  </lib>
+</glyph>

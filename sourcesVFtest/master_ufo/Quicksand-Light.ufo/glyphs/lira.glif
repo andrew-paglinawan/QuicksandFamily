@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="611"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="71" y="229" type="curve"/>
+      <point x="464" y="229" type="line"/>
+      <point x="476" y="229"/>
+      <point x="485" y="237"/>
+      <point x="485" y="249" type="curve"/>
+      <point x="485" y="260"/>
+      <point x="476" y="269"/>
+      <point x="464" y="269" type="curve"/>
+      <point x="71" y="269" type="line"/>
+      <point x="59" y="269"/>
+      <point x="50" y="260"/>
+      <point x="50" y="249" type="curve"/>
+      <point x="50" y="237"/>
+      <point x="59" y="229"/>
+    </contour>
+    <component base="sterling"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

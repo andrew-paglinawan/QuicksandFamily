@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="943"/>
+  <unicode hex="20A9"/>
+  <anchor x="472" y="0" name="bottom"/>
+  <anchor x="472" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="83" y="299" type="curve" smooth="yes"/>
+      <point x="155" y="299" type="line"/>
+      <point x="214" y="319" type="line"/>
+      <point x="719" y="319" type="line"/>
+      <point x="780" y="299" type="line"/>
+      <point x="857" y="299" type="line" smooth="yes"/>
+      <point x="892" y="299"/>
+      <point x="918" y="323"/>
+      <point x="918" y="357" type="curve" smooth="yes"/>
+      <point x="918" y="390"/>
+      <point x="892" y="414"/>
+      <point x="857" y="414" type="curve" smooth="yes"/>
+      <point x="806" y="414" type="line"/>
+      <point x="763" y="394" type="line"/>
+      <point x="175" y="394" type="line"/>
+      <point x="137" y="414" type="line"/>
+      <point x="83" y="414" type="line" smooth="yes"/>
+      <point x="48" y="414"/>
+      <point x="22" y="390"/>
+      <point x="22" y="357" type="curve" smooth="yes"/>
+      <point x="22" y="323"/>
+      <point x="48" y="299"/>
+    </contour>
+    <component base="W"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

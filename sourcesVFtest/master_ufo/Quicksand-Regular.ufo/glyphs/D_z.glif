@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dz" format="2">
+  <advance width="1197"/>
+  <unicode hex="01F2"/>
+  <anchor x="320" y="0" name="bottom_1"/>
+  <anchor x="954" y="0" name="bottom_2"/>
+  <anchor x="127" y="350" name="center"/>
+  <anchor x="312" y="700" name="top_1"/>
+  <anchor x="975" y="503" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="718"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 23:12:16</string>
+    </dict>
+  </lib>
+</glyph>

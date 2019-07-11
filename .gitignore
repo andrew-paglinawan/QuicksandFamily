@@ -1,2 +1,5 @@
 .DS_Store
 *(Autosaved)*
+
+#Don't track the contents of these folders please
+venv/

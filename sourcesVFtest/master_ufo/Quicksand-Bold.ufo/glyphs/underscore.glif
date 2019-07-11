@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="704"/>
+  <unicode hex="005F"/>
+  <note>
+underscore
+</note>
+  <outline>
+    <contour>
+      <point x="98" y="-160" type="curve" smooth="yes"/>
+      <point x="606" y="-160" type="line" smooth="yes"/>
+      <point x="634" y="-160"/>
+      <point x="654" y="-141"/>
+      <point x="654" y="-114" type="curve" smooth="yes"/>
+      <point x="654" y="-86"/>
+      <point x="634" y="-66"/>
+      <point x="606" y="-66" type="curve" smooth="yes"/>
+      <point x="98" y="-66" type="line" smooth="yes"/>
+      <point x="70" y="-66"/>
+      <point x="50" y="-86"/>
+      <point x="50" y="-113" type="curve" smooth="yes"/>
+      <point x="50" y="-140"/>
+      <point x="70" y="-160"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

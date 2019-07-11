@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <anchor x="170" y="0" name="_bottom"/>
+  <anchor x="170" y="-159" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="171" y="-139" type="curve"/>
+      <point x="238" y="-139"/>
+      <point x="292" y="-76"/>
+      <point x="292" y="-9" type="curve"/>
+      <point x="292" y="0"/>
+      <point x="284" y="9"/>
+      <point x="273" y="9" type="curve"/>
+      <point x="260" y="9"/>
+      <point x="254" y="1"/>
+      <point x="252" y="-11" type="curve"/>
+      <point x="245" y="-67"/>
+      <point x="211" y="-101"/>
+      <point x="171" y="-101" type="curve"/>
+      <point x="131" y="-101"/>
+      <point x="96" y="-69"/>
+      <point x="90" y="-11" type="curve"/>
+      <point x="89" y="1"/>
+      <point x="82" y="9"/>
+      <point x="69" y="9" type="curve"/>
+      <point x="58" y="9"/>
+      <point x="50" y="0"/>
+      <point x="50" y="-9" type="curve"/>
+      <point x="50" y="-76"/>
+      <point x="104" y="-139"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>342</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="595"/>
+  <unicode hex="0071"/>
+  <note>
+q
+</note>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="298" y="499" name="top"/>
+  <outline>
+    <contour>
+      <point x="492" y="505" type="curve"/>
+      <point x="480" y="505"/>
+      <point x="472" y="496"/>
+      <point x="472" y="485" type="curve"/>
+      <point x="472" y="334" type="line"/>
+      <point x="488" y="309" type="line"/>
+      <point x="488" y="427"/>
+      <point x="390" y="515"/>
+      <point x="280" y="515" type="curve"/>
+      <point x="148" y="515"/>
+      <point x="48" y="403"/>
+      <point x="48" y="253" type="curve"/>
+      <point x="48" y="103"/>
+      <point x="148" y="-10"/>
+      <point x="280" y="-10" type="curve"/>
+      <point x="398" y="-10"/>
+      <point x="488" y="92"/>
+      <point x="488" y="184" type="curve"/>
+      <point x="472" y="162" type="line"/>
+      <point x="472" y="-180" type="line"/>
+      <point x="472" y="-191"/>
+      <point x="480" y="-200"/>
+      <point x="492" y="-200" type="curve"/>
+      <point x="503" y="-200"/>
+      <point x="512" y="-191"/>
+      <point x="512" y="-180" type="curve"/>
+      <point x="512" y="485" type="line"/>
+      <point x="512" y="496"/>
+      <point x="504" y="505"/>
+    </contour>
+    <contour>
+      <point x="282" y="28" type="curve"/>
+      <point x="171" y="28"/>
+      <point x="88" y="124"/>
+      <point x="88" y="253" type="curve"/>
+      <point x="88" y="382"/>
+      <point x="172" y="477"/>
+      <point x="282" y="477" type="curve"/>
+      <point x="394" y="477"/>
+      <point x="476" y="382"/>
+      <point x="476" y="253" type="curve"/>
+      <point x="476" y="123"/>
+      <point x="395" y="28"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

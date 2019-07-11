@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="763"/>
+  <unicode hex="0025"/>
+  <note>
+percent
+</note>
+  <outline>
+    <contour>
+      <point x="177" y="350" type="curve"/>
+      <point x="266" y="350"/>
+      <point x="307" y="435"/>
+      <point x="307" y="529" type="curve"/>
+      <point x="307" y="623"/>
+      <point x="267" y="708"/>
+      <point x="179" y="708" type="curve"/>
+      <point x="90" y="708"/>
+      <point x="50" y="623"/>
+      <point x="50" y="527" type="curve"/>
+      <point x="50" y="434"/>
+      <point x="89" y="350"/>
+    </contour>
+    <contour>
+      <point x="179" y="390" type="curve"/>
+      <point x="121" y="390"/>
+      <point x="92" y="448"/>
+      <point x="92" y="529" type="curve"/>
+      <point x="92" y="606"/>
+      <point x="115" y="668"/>
+      <point x="177" y="668" type="curve"/>
+      <point x="235" y="668"/>
+      <point x="265" y="609"/>
+      <point x="265" y="527" type="curve"/>
+      <point x="265" y="450"/>
+      <point x="241" y="390"/>
+    </contour>
+    <contour>
+      <point x="583" y="-8" type="curve"/>
+      <point x="672" y="-8"/>
+      <point x="713" y="77"/>
+      <point x="713" y="171" type="curve"/>
+      <point x="713" y="265"/>
+      <point x="673" y="350"/>
+      <point x="585" y="350" type="curve"/>
+      <point x="496" y="350"/>
+      <point x="455" y="265"/>
+      <point x="455" y="169" type="curve"/>
+      <point x="455" y="76"/>
+      <point x="495" y="-8"/>
+    </contour>
+    <contour>
+      <point x="585" y="32" type="curve"/>
+      <point x="527" y="32"/>
+      <point x="497" y="90"/>
+      <point x="497" y="171" type="curve"/>
+      <point x="497" y="248"/>
+      <point x="521" y="310"/>
+      <point x="583" y="310" type="curve"/>
+      <point x="641" y="310"/>
+      <point x="671" y="251"/>
+      <point x="671" y="169" type="curve"/>
+      <point x="671" y="92"/>
+      <point x="647" y="32"/>
+    </contour>
+    <component base="fraction" xOffset="113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

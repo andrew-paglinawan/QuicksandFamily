@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="759"/>
+  <unicode hex="014C"/>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="380" y="350" name="center"/>
+  <anchor x="683" y="10" name="ogonek"/>
+  <anchor x="380" y="869" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="379" y="710" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb.case" xOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 20:49:36</string>
+    </dict>
+  </lib>
+</glyph>

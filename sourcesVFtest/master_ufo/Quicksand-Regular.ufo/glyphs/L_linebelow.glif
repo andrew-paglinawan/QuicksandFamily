@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llinebelow" format="2">
+  <advance width="532"/>
+  <unicode hex="1E3A"/>
+  <anchor x="285" y="-118" name="bottom"/>
+  <anchor x="266" y="350" name="center"/>
+  <anchor x="116" y="700" name="top"/>
+  <anchor x="512" y="700" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb.case" xOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/21 23:12:16</string>
+    </dict>
+  </lib>
+</glyph>
