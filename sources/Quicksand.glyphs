@@ -1,10 +1,5 @@
 {
 .appVersion = "1230";
-DisplayStrings = (
-"0",
-"/twoinferior",
-"/g.ss01"
-);
 classes = (
 {
 automatic = 1;
@@ -43,10 +38,6 @@ value = (
 {
 name = "Variable Font Origin";
 value = "254266E2-2911-423D-9D37-8CC6105656EE";
-},
-{
-name = vendorID;
-value = GOOG;
 }
 );
 date = "2019-06-17 15:18:38 +0000";
@@ -56235,5 +56226,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }
