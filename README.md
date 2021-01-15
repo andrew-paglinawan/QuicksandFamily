@@ -1,7 +1,7 @@
 Quicksand Font Family
 ========================
 
-Quicksand is a sans serif typeface designed by Andrew Paglinawan in 2008 using geometric shapes as it's core foundation. It is designed for display purposes but legible enough to use in small sizes as well. Quicksand Family is available in three styles which is Light, Regular and Bold including true italics for each weight.
+Quicksand is a sans serif typeface designed by Andrew Paglinawan in 2008 using geometric shapes as it's core foundation. It is designed for display purposes but legible enough to use in small sizes as well. Quicksand Family is available in three styles which are Light, Regular and Bold including true italics for each weight.
 
 ChangeLog
 2013 October 21 (Andrew Paglinawan) Version 2.0
